@@ -1,0 +1,4026 @@
+{
+  "meta": {
+    "total_records": 401,
+    "page": null,
+    "pagesize": null
+  },
+  "links": {
+    "self": "http://jobmonitor.de/v1/jobs/regions?month=2023-10-01",
+    "first_page": null,
+    "last_page": null,
+    "next_page": null,
+    "previous_page": null
+  },
+  "data": [
+    {
+      "nuts_id": "DE111",
+      "total_jobs": 15503,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 1973,
+      "total_diff_previous_year": -1911,
+      "percentage_diff_previous_month": 0.1458240946045824,
+      "percentage_diff_previous_year": -0.10973929022625474,
+      "total_jobs_per_10k": 356.6457858376909
+    },
+    {
+      "nuts_id": "DE112",
+      "total_jobs": 4630,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 23,
+      "total_diff_previous_year": -994,
+      "percentage_diff_previous_month": 0.0049924028652051,
+      "percentage_diff_previous_year": -0.1767425320056899,
+      "total_jobs_per_10k": 254.8016069561389
+    },
+    {
+      "nuts_id": "DE113",
+      "total_jobs": 6119,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -30,
+      "total_diff_previous_year": -1244,
+      "percentage_diff_previous_month": -0.004878842088144414,
+      "percentage_diff_previous_year": -0.1689528724704604,
+      "total_jobs_per_10k": 275.45567905069305
+    },
+    {
+      "nuts_id": "DE114",
+      "total_jobs": 2087,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -12,
+      "total_diff_previous_year": 132,
+      "percentage_diff_previous_month": -0.005717008099094807,
+      "percentage_diff_previous_year": 0.0675191815856777,
+      "total_jobs_per_10k": 233.6307358192748
+    },
+    {
+      "nuts_id": "DE115",
+      "total_jobs": 5507,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -87,
+      "total_diff_previous_year": 58,
+      "percentage_diff_previous_month": -0.015552377547372185,
+      "percentage_diff_previous_year": 0.0106441548908057,
+      "total_jobs_per_10k": 261.6462762798432
+    },
+    {
+      "nuts_id": "DE116",
+      "total_jobs": 3183,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -54,
+      "total_diff_previous_year": -430,
+      "percentage_diff_previous_month": -0.016682113067655237,
+      "percentage_diff_previous_year": -0.1190146692499308,
+      "total_jobs_per_10k": 206.45504430059543
+    },
+    {
+      "nuts_id": "DE117",
+      "total_jobs": 2101,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 31,
+      "total_diff_previous_year": -191,
+      "percentage_diff_previous_month": 0.014975845410628,
+      "percentage_diff_previous_year": -0.08333333333333333,
+      "total_jobs_per_10k": 281.7940395396872
+    },
+    {
+      "nuts_id": "DE118",
+      "total_jobs": 3088,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -101,
+      "total_diff_previous_year": -655,
+      "percentage_diff_previous_month": -0.03167137033552838,
+      "percentage_diff_previous_year": -0.1749933208656158,
+      "total_jobs_per_10k": 209.64588311970454
+    },
+    {
+      "nuts_id": "DE119",
+      "total_jobs": 1498,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 14,
+      "total_diff_previous_year": 155,
+      "percentage_diff_previous_month": 0.0094339622641509,
+      "percentage_diff_previous_year": 0.1154132539091586,
+      "total_jobs_per_10k": 246.42616262810705
+    },
+    {
+      "nuts_id": "DE11A",
+      "total_jobs": 2010,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 92,
+      "total_diff_previous_year": -23,
+      "percentage_diff_previous_month": 0.0479666319082377,
+      "percentage_diff_previous_year": -0.01131333005410723,
+      "total_jobs_per_10k": 228.44543450094332
+    },
+    {
+      "nuts_id": "DE11B",
+      "total_jobs": 1329,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -132,
+      "total_diff_previous_year": -146,
+      "percentage_diff_previous_month": -0.09034907597535935,
+      "percentage_diff_previous_year": -0.09898305084745762,
+      "total_jobs_per_10k": 234.45769529320444
+    },
+    {
+      "nuts_id": "DE11C",
+      "total_jobs": 1136,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -19,
+      "total_diff_previous_year": -181,
+      "percentage_diff_previous_month": -0.01645021645021645,
+      "percentage_diff_previous_year": -0.13743356112376615,
+      "total_jobs_per_10k": 211.52199009421665
+    },
+    {
+      "nuts_id": "DE11D",
+      "total_jobs": 2857,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -81,
+      "total_diff_previous_year": -1185,
+      "percentage_diff_previous_month": -0.027569775357385976,
+      "percentage_diff_previous_year": -0.29317169717961405,
+      "total_jobs_per_10k": 218.5336749913948
+    },
+    {
+      "nuts_id": "DE121",
+      "total_jobs": 959,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -306,
+      "total_diff_previous_year": -1254,
+      "percentage_diff_previous_month": -0.24189723320158102,
+      "percentage_diff_previous_year": -0.5666516041572526,
+      "total_jobs_per_10k": 300.900505161432
+    },
+    {
+      "nuts_id": "DE122",
+      "total_jobs": 7340,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 1547,
+      "total_diff_previous_year": 463,
+      "percentage_diff_previous_month": 0.2670464353530123,
+      "percentage_diff_previous_year": 0.0673258688381562,
+      "total_jobs_per_10k": 396.0802089404045
+    },
+    {
+      "nuts_id": "DE123",
+      "total_jobs": 4091,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 371,
+      "total_diff_previous_year": 388,
+      "percentage_diff_previous_month": 0.0997311827956989,
+      "percentage_diff_previous_year": 0.1047799081825547,
+      "total_jobs_per_10k": 249.76037412162617
+    },
+    {
+      "nuts_id": "DE124",
+      "total_jobs": 1920,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -506,
+      "total_diff_previous_year": -366,
+      "percentage_diff_previous_month": -0.2085737840065952,
+      "percentage_diff_previous_year": -0.16010498687664043,
+      "total_jobs_per_10k": 208.78188817120116
+    },
+    {
+      "nuts_id": "DE125",
+      "total_jobs": 2374,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -4523,
+      "total_diff_previous_year": -715,
+      "percentage_diff_previous_month": -0.6557923734957227,
+      "percentage_diff_previous_year": -0.2314664940110068,
+      "total_jobs_per_10k": 247.92697955176808
+    },
+    {
+      "nuts_id": "DE126",
+      "total_jobs": 6862,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 1804,
+      "total_diff_previous_year": 98,
+      "percentage_diff_previous_month": 0.3566627125345987,
+      "percentage_diff_previous_year": 0.014488468361916,
+      "total_jobs_per_10k": 353.20156475190447
+    },
+    {
+      "nuts_id": "DE127",
+      "total_jobs": 759,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -22,
+      "total_diff_previous_year": -70,
+      "percentage_diff_previous_month": -0.028169014084507043,
+      "percentage_diff_previous_year": -0.08443908323281062,
+      "total_jobs_per_10k": 161.73712921922944
+    },
+    {
+      "nuts_id": "DE128",
+      "total_jobs": 3840,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 29,
+      "total_diff_previous_year": 120,
+      "percentage_diff_previous_month": 0.0076095512988717,
+      "percentage_diff_previous_year": 0.032258064516129,
+      "total_jobs_per_10k": 209.90718166810615
+    },
+    {
+      "nuts_id": "DE129",
+      "total_jobs": 1327,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -293,
+      "total_diff_previous_year": -259,
+      "percentage_diff_previous_month": -0.1808641975308642,
+      "percentage_diff_previous_year": -0.16330390920554855,
+      "total_jobs_per_10k": 222.88286472504956
+    },
+    {
+      "nuts_id": "DE12A",
+      "total_jobs": 951,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -57,
+      "total_diff_previous_year": -31,
+      "percentage_diff_previous_month": -0.05654761904761905,
+      "percentage_diff_previous_year": -0.031568228105906315,
+      "total_jobs_per_10k": 190.8871938980329
+    },
+    {
+      "nuts_id": "DE12B",
+      "total_jobs": 1475,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -170,
+      "total_diff_previous_year": 174,
+      "percentage_diff_previous_month": -0.1033434650455927,
+      "percentage_diff_previous_year": 0.1337432744043044,
+      "total_jobs_per_10k": 228.9519433751397
+    },
+    {
+      "nuts_id": "DE12C",
+      "total_jobs": 919,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 49,
+      "total_diff_previous_year": -91,
+      "percentage_diff_previous_month": 0.0563218390804598,
+      "percentage_diff_previous_year": -0.0900990099009901,
+      "total_jobs_per_10k": 185.3158839305519
+    },
+    {
+      "nuts_id": "DE131",
+      "total_jobs": 3049,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -279,
+      "total_diff_previous_year": -884,
+      "percentage_diff_previous_month": -0.08383413461538461,
+      "percentage_diff_previous_year": -0.22476481057716755,
+      "total_jobs_per_10k": 224.47672406811606
+    },
+    {
+      "nuts_id": "DE132",
+      "total_jobs": 2109,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -380,
+      "total_diff_previous_year": 127,
+      "percentage_diff_previous_month": -0.15267175572519084,
+      "percentage_diff_previous_year": 0.0640766902119072,
+      "total_jobs_per_10k": 246.24617612030917
+    },
+    {
+      "nuts_id": "DE133",
+      "total_jobs": 1501,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 216,
+      "total_diff_previous_year": 353,
+      "percentage_diff_previous_month": 0.1680933852140078,
+      "percentage_diff_previous_year": 0.3074912891986063,
+      "total_jobs_per_10k": 266.3236337828247
+    },
+    {
+      "nuts_id": "DE134",
+      "total_jobs": 4291,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 223,
+      "total_diff_previous_year": 425,
+      "percentage_diff_previous_month": 0.0548180924287119,
+      "percentage_diff_previous_year": 0.1099327470253492,
+      "total_jobs_per_10k": 225.98364238654736
+    },
+    {
+      "nuts_id": "DE135",
+      "total_jobs": 1393,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 79,
+      "total_diff_previous_year": 211,
+      "percentage_diff_previous_month": 0.0601217656012177,
+      "percentage_diff_previous_year": 0.1785109983079526,
+      "total_jobs_per_10k": 234.15700117666836
+    },
+    {
+      "nuts_id": "DE136",
+      "total_jobs": 2362,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -74,
+      "total_diff_previous_year": 342,
+      "percentage_diff_previous_month": -0.030377668308702793,
+      "percentage_diff_previous_year": 0.1693069306930693,
+      "total_jobs_per_10k": 267.34578381437467
+    },
+    {
+      "nuts_id": "DE137",
+      "total_jobs": 1470,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -133,
+      "total_diff_previous_year": 136,
+      "percentage_diff_previous_month": -0.08296943231441048,
+      "percentage_diff_previous_year": 0.1019490254872564,
+      "total_jobs_per_10k": 214.32008047937717
+    },
+    {
+      "nuts_id": "DE138",
+      "total_jobs": 2880,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -91,
+      "total_diff_previous_year": -72,
+      "percentage_diff_previous_month": -0.030629417704476608,
+      "percentage_diff_previous_year": -0.024390243902439025,
+      "total_jobs_per_10k": 271.7775953344846
+    },
+    {
+      "nuts_id": "DE139",
+      "total_jobs": 1821,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -122,
+      "total_diff_previous_year": -547,
+      "percentage_diff_previous_month": -0.06278950077200206,
+      "percentage_diff_previous_year": -0.23099662162162163,
+      "total_jobs_per_10k": 229.09118357487924
+    },
+    {
+      "nuts_id": "DE13A",
+      "total_jobs": 1225,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 113,
+      "total_diff_previous_year": -79,
+      "percentage_diff_previous_month": 0.1016187050359712,
+      "percentage_diff_previous_year": -0.06058282208588957,
+      "total_jobs_per_10k": 220.1574350310916
+    },
+    {
+      "nuts_id": "DE141",
+      "total_jobs": 3024,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -205,
+      "total_diff_previous_year": -44,
+      "percentage_diff_previous_month": -0.06348714772375348,
+      "percentage_diff_previous_year": -0.014341590612777053,
+      "total_jobs_per_10k": 256.50813039163296
+    },
+    {
+      "nuts_id": "DE142",
+      "total_jobs": 1878,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -172,
+      "total_diff_previous_year": -53,
+      "percentage_diff_previous_month": -0.08390243902439025,
+      "percentage_diff_previous_year": -0.027446918694976695,
+      "total_jobs_per_10k": 209.21760636342367
+    },
+    {
+      "nuts_id": "DE143",
+      "total_jobs": 1504,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 192,
+      "total_diff_previous_year": 467,
+      "percentage_diff_previous_month": 0.1463414634146341,
+      "percentage_diff_previous_year": 0.4503375120540019,
+      "total_jobs_per_10k": 207.7721137773357
+    },
+    {
+      "nuts_id": "DE144",
+      "total_jobs": 2765,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -170,
+      "total_diff_previous_year": -287,
+      "percentage_diff_previous_month": -0.05792163543441227,
+      "percentage_diff_previous_year": -0.09403669724770643,
+      "total_jobs_per_10k": 276.1961841973829
+    },
+    {
+      "nuts_id": "DE145",
+      "total_jobs": 1418,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -51,
+      "total_diff_previous_year": -201,
+      "percentage_diff_previous_month": -0.03471749489448604,
+      "percentage_diff_previous_year": -0.12415071031500927,
+      "total_jobs_per_10k": 239.9891683309075
+    },
+    {
+      "nuts_id": "DE146",
+      "total_jobs": 2435,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 109,
+      "total_diff_previous_year": 304,
+      "percentage_diff_previous_month": 0.0468615649183147,
+      "percentage_diff_previous_year": 0.1426560300328484,
+      "total_jobs_per_10k": 274.4899109457784
+    },
+    {
+      "nuts_id": "DE147",
+      "total_jobs": 2456,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -183,
+      "total_diff_previous_year": -485,
+      "percentage_diff_previous_month": -0.06934444865479349,
+      "percentage_diff_previous_year": -0.1649098945936756,
+      "total_jobs_per_10k": 260.0069871584497
+    },
+    {
+      "nuts_id": "DE148",
+      "total_jobs": 3269,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -54,
+      "total_diff_previous_year": -15,
+      "percentage_diff_previous_month": -0.016250376166114956,
+      "percentage_diff_previous_year": -0.004567600487210719,
+      "total_jobs_per_10k": 260.62761105973146
+    },
+    {
+      "nuts_id": "DE149",
+      "total_jobs": 1328,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 231,
+      "total_diff_previous_year": 277,
+      "percentage_diff_previous_month": 0.2105742935278031,
+      "percentage_diff_previous_year": 0.263558515699334,
+      "total_jobs_per_10k": 266.3671373555841
+    },
+    {
+      "nuts_id": "DE211",
+      "total_jobs": 2019,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -646,
+      "total_diff_previous_year": -967,
+      "percentage_diff_previous_month": -0.2424015009380863,
+      "percentage_diff_previous_year": -0.3238446081714668,
+      "total_jobs_per_10k": 194.21678402401017
+    },
+    {
+      "nuts_id": "DE212",
+      "total_jobs": 28928,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -1102,
+      "total_diff_previous_year": -12002,
+      "percentage_diff_previous_month": -0.0366966366966367,
+      "percentage_diff_previous_year": -0.29323234791106767,
+      "total_jobs_per_10k": 312.67293857221915
+    },
+    {
+      "nuts_id": "DE213",
+      "total_jobs": 1010,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -223,
+      "total_diff_previous_year": -53,
+      "percentage_diff_previous_month": -0.18085969180859693,
+      "percentage_diff_previous_year": -0.04985888993414864,
+      "total_jobs_per_10k": 275.4370176443317
+    },
+    {
+      "nuts_id": "DE214",
+      "total_jobs": 910,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 11,
+      "total_diff_previous_year": 65,
+      "percentage_diff_previous_month": 0.0122358175750834,
+      "percentage_diff_previous_year": 0.0769230769230769,
+      "total_jobs_per_10k": 184.09872547036213
+    },
+    {
+      "nuts_id": "DE215",
+      "total_jobs": 992,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 27,
+      "total_diff_previous_year": 99,
+      "percentage_diff_previous_month": 0.027979274611399,
+      "percentage_diff_previous_year": 0.1108622620380739,
+      "total_jobs_per_10k": 269.9466637640144
+    },
+    {
+      "nuts_id": "DE216",
+      "total_jobs": 993,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -143,
+      "total_diff_previous_year": -390,
+      "percentage_diff_previous_month": -0.12588028169014084,
+      "percentage_diff_previous_year": -0.28199566160520606,
+      "total_jobs_per_10k": 254.22427035330261
+    },
+    {
+      "nuts_id": "DE217",
+      "total_jobs": 1190,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -356,
+      "total_diff_previous_year": -4,
+      "percentage_diff_previous_month": -0.23027166882276842,
+      "percentage_diff_previous_year": -0.0033500837520938024,
+      "total_jobs_per_10k": 262.7395566545968
+    },
+    {
+      "nuts_id": "DE218",
+      "total_jobs": 1175,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -414,
+      "total_diff_previous_year": -103,
+      "percentage_diff_previous_month": -0.2605412208936438,
+      "percentage_diff_previous_year": -0.08059467918622848,
+      "total_jobs_per_10k": 268.8910247608586
+    },
+    {
+      "nuts_id": "DE219",
+      "total_jobs": 1502,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -276,
+      "total_diff_previous_year": -1582,
+      "percentage_diff_previous_month": -0.15523059617547807,
+      "percentage_diff_previous_year": -0.5129701686121919,
+      "total_jobs_per_10k": 357.8064700557435
+    },
+    {
+      "nuts_id": "DE21A",
+      "total_jobs": 1007,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -34,
+      "total_diff_previous_year": -249,
+      "percentage_diff_previous_month": -0.03266090297790586,
+      "percentage_diff_previous_year": -0.1982484076433121,
+      "total_jobs_per_10k": 221.78174209888778
+    },
+    {
+      "nuts_id": "DE21B",
+      "total_jobs": 2060,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 19,
+      "total_diff_previous_year": 85,
+      "percentage_diff_previous_month": 0.0093091621754042,
+      "percentage_diff_previous_year": 0.0430379746835443,
+      "total_jobs_per_10k": 247.07349836883515
+    },
+    {
+      "nuts_id": "DE21C",
+      "total_jobs": 1328,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -269,
+      "total_diff_previous_year": -71,
+      "percentage_diff_previous_month": -0.16844082654978085,
+      "percentage_diff_previous_year": -0.05075053609721229,
+      "total_jobs_per_10k": 241.00321216630672
+    },
+    {
+      "nuts_id": "DE21D",
+      "total_jobs": 773,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -7,
+      "total_diff_previous_year": -116,
+      "percentage_diff_previous_month": -0.008974358974358974,
+      "percentage_diff_previous_year": -0.13048368953880765,
+      "total_jobs_per_10k": 259.91930060524544
+    },
+    {
+      "nuts_id": "DE21E",
+      "total_jobs": 1093,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -207,
+      "total_diff_previous_year": -374,
+      "percentage_diff_previous_month": -0.15923076923076923,
+      "percentage_diff_previous_year": -0.2549420586230402,
+      "total_jobs_per_10k": 270.343804105862
+    },
+    {
+      "nuts_id": "DE21F",
+      "total_jobs": 929,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -242,
+      "total_diff_previous_year": -317,
+      "percentage_diff_previous_month": -0.20666097352690008,
+      "percentage_diff_previous_year": -0.25441412520064205,
+      "total_jobs_per_10k": 251.39362450614277
+    },
+    {
+      "nuts_id": "DE21G",
+      "total_jobs": 913,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -85,
+      "total_diff_previous_year": -54,
+      "percentage_diff_previous_month": -0.08517034068136273,
+      "percentage_diff_previous_year": -0.055842812823164424,
+      "total_jobs_per_10k": 207.20802505560346
+    },
+    {
+      "nuts_id": "DE21H",
+      "total_jobs": 5613,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -792,
+      "total_diff_previous_year": -15,
+      "percentage_diff_previous_month": -0.12365339578454333,
+      "percentage_diff_previous_year": -0.0026652452025586353,
+      "total_jobs_per_10k": 225.64461274994574
+    },
+    {
+      "nuts_id": "DE21I",
+      "total_jobs": 603,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 6,
+      "total_diff_previous_year": -25,
+      "percentage_diff_previous_month": 0.0100502512562814,
+      "percentage_diff_previous_year": -0.03980891719745223,
+      "total_jobs_per_10k": 180.17210469702403
+    },
+    {
+      "nuts_id": "DE21J",
+      "total_jobs": 1115,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 27,
+      "total_diff_previous_year": 53,
+      "percentage_diff_previous_month": 0.0248161764705882,
+      "percentage_diff_previous_year": 0.0499058380414313,
+      "total_jobs_per_10k": 244.12138196785918
+    },
+    {
+      "nuts_id": "DE21K",
+      "total_jobs": 1984,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -278,
+      "total_diff_previous_year": -233,
+      "percentage_diff_previous_month": -0.1229000884173298,
+      "percentage_diff_previous_year": -0.10509697789806044,
+      "total_jobs_per_10k": 226.691042047532
+    },
+    {
+      "nuts_id": "DE21L",
+      "total_jobs": 1524,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -293,
+      "total_diff_previous_year": -392,
+      "percentage_diff_previous_month": -0.16125481563015961,
+      "percentage_diff_previous_year": -0.2045929018789144,
+      "total_jobs_per_10k": 281.4976264799867
+    },
+    {
+      "nuts_id": "DE21M",
+      "total_jobs": 1412,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -146,
+      "total_diff_previous_year": -180,
+      "percentage_diff_previous_month": -0.09370988446726572,
+      "percentage_diff_previous_year": -0.11306532663316583,
+      "total_jobs_per_10k": 196.90145166013582
+    },
+    {
+      "nuts_id": "DE21N",
+      "total_jobs": 1681,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 356,
+      "total_diff_previous_year": 105,
+      "percentage_diff_previous_month": 0.2686792452830189,
+      "percentage_diff_previous_year": 0.0666243654822335,
+      "total_jobs_per_10k": 323.368728839643
+    },
+    {
+      "nuts_id": "DE221",
+      "total_jobs": 1016,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 69,
+      "total_diff_previous_year": -172,
+      "percentage_diff_previous_month": 0.0728616684266103,
+      "percentage_diff_previous_year": -0.1447811447811448,
+      "total_jobs_per_10k": 251.84046798701138
+    },
+    {
+      "nuts_id": "DE222",
+      "total_jobs": 775,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 5,
+      "total_diff_previous_year": -58,
+      "percentage_diff_previous_month": 0.0064935064935065,
+      "percentage_diff_previous_year": -0.06962785114045618,
+      "total_jobs_per_10k": 186.94970449885417
+    },
+    {
+      "nuts_id": "DE223",
+      "total_jobs": 667,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 40,
+      "total_diff_previous_year": 107,
+      "percentage_diff_previous_month": 0.0637958532695375,
+      "percentage_diff_previous_year": 0.1910714285714286,
+      "total_jobs_per_10k": 215.87157744837853
+    },
+    {
+      "nuts_id": "DE224",
+      "total_jobs": 1200,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 101,
+      "total_diff_previous_year": 214,
+      "percentage_diff_previous_month": 0.091901728844404,
+      "percentage_diff_previous_year": 0.2170385395537525,
+      "total_jobs_per_10k": 234.25604185374615
+    },
+    {
+      "nuts_id": "DE225",
+      "total_jobs": 449,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 60,
+      "total_diff_previous_year": 45,
+      "percentage_diff_previous_month": 0.1542416452442159,
+      "percentage_diff_previous_year": 0.1113861386138614,
+      "total_jobs_per_10k": 167.88184707421948
+    },
+    {
+      "nuts_id": "DE226",
+      "total_jobs": 827,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -17,
+      "total_diff_previous_year": 21,
+      "percentage_diff_previous_month": -0.02014218009478673,
+      "percentage_diff_previous_year": 0.0260545905707196,
+      "total_jobs_per_10k": 201.12356818016002
+    },
+    {
+      "nuts_id": "DE227",
+      "total_jobs": 1262,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -47,
+      "total_diff_previous_year": 8,
+      "percentage_diff_previous_month": -0.03590527119938885,
+      "percentage_diff_previous_year": 0.0063795853269537,
+      "total_jobs_per_10k": 238.6986949120484
+    },
+    {
+      "nuts_id": "DE228",
+      "total_jobs": 1121,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 80,
+      "total_diff_previous_year": -194,
+      "percentage_diff_previous_month": 0.0768491834774256,
+      "percentage_diff_previous_year": -0.14752851711026616,
+      "total_jobs_per_10k": 181.67674181158128
+    },
+    {
+      "nuts_id": "DE229",
+      "total_jobs": 534,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 32,
+      "total_diff_previous_year": 59,
+      "percentage_diff_previous_month": 0.0637450199203187,
+      "percentage_diff_previous_year": 0.1242105263157895,
+      "total_jobs_per_10k": 181.892499489066
+    },
+    {
+      "nuts_id": "DE22A",
+      "total_jobs": 837,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 210,
+      "total_diff_previous_year": -85,
+      "percentage_diff_previous_month": 0.3349282296650718,
+      "percentage_diff_previous_year": -0.09219088937093275,
+      "total_jobs_per_10k": 207.17821782178217
+    },
+    {
+      "nuts_id": "DE22B",
+      "total_jobs": 494,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 13,
+      "total_diff_previous_year": 20,
+      "percentage_diff_previous_month": 0.027027027027027,
+      "percentage_diff_previous_year": 0.0421940928270042,
+      "total_jobs_per_10k": 180.3446261682243
+    },
+    {
+      "nuts_id": "DE22C",
+      "total_jobs": 785,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -198,
+      "total_diff_previous_year": -275,
+      "percentage_diff_previous_month": -0.20142421159715157,
+      "percentage_diff_previous_year": -0.25943396226415094,
+      "total_jobs_per_10k": 152.46567094606405
+    },
+    {
+      "nuts_id": "DE231",
+      "total_jobs": 507,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -17,
+      "total_diff_previous_year": -68,
+      "percentage_diff_previous_month": -0.03244274809160305,
+      "percentage_diff_previous_year": -0.11826086956521739,
+      "total_jobs_per_10k": 180.01704303366
+    },
+    {
+      "nuts_id": "DE232",
+      "total_jobs": 2630,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -464,
+      "total_diff_previous_year": -678,
+      "percentage_diff_previous_month": -0.14996767937944408,
+      "percentage_diff_previous_year": -0.20495767835550183,
+      "total_jobs_per_10k": 205.13220497621091
+    },
+    {
+      "nuts_id": "DE233",
+      "total_jobs": 538,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 60,
+      "total_diff_previous_year": -103,
+      "percentage_diff_previous_month": 0.1255230125523013,
+      "percentage_diff_previous_year": -0.1606864274570983,
+      "total_jobs_per_10k": 188.25670095877948
+    },
+    {
+      "nuts_id": "DE234",
+      "total_jobs": 554,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 141,
+      "total_diff_previous_year": -19,
+      "percentage_diff_previous_month": 0.3414043583535109,
+      "percentage_diff_previous_year": -0.03315881326352531,
+      "total_jobs_per_10k": 184.23678084469572
+    },
+    {
+      "nuts_id": "DE235",
+      "total_jobs": 1009,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 92,
+      "total_diff_previous_year": -39,
+      "percentage_diff_previous_month": 0.1003271537622683,
+      "percentage_diff_previous_year": -0.03721374045801527,
+      "total_jobs_per_10k": 184.94757680181831
+    },
+    {
+      "nuts_id": "DE236",
+      "total_jobs": 984,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 178,
+      "total_diff_previous_year": 115,
+      "percentage_diff_previous_month": 0.2208436724565757,
+      "percentage_diff_previous_year": 0.1323360184119678,
+      "total_jobs_per_10k": 186.11337027860264
+    },
+    {
+      "nuts_id": "DE237",
+      "total_jobs": 671,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 67,
+      "total_diff_previous_year": -142,
+      "percentage_diff_previous_month": 0.1109271523178808,
+      "percentage_diff_previous_year": -0.17466174661746617,
+      "total_jobs_per_10k": 205.87242659466756
+    },
+    {
+      "nuts_id": "DE238",
+      "total_jobs": 1761,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -156,
+      "total_diff_previous_year": 490,
+      "percentage_diff_previous_month": -0.081377151799687,
+      "percentage_diff_previous_year": 0.3855232100708104,
+      "total_jobs_per_10k": 346.9335487302744
+    },
+    {
+      "nuts_id": "DE239",
+      "total_jobs": 1255,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -34,
+      "total_diff_previous_year": 105,
+      "percentage_diff_previous_month": -0.026377036462373934,
+      "percentage_diff_previous_year": 0.091304347826087,
+      "total_jobs_per_10k": 216.8691354611277
+    },
+    {
+      "nuts_id": "DE23A",
+      "total_jobs": 430,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 46,
+      "total_diff_previous_year": -52,
+      "percentage_diff_previous_month": 0.1197916666666667,
+      "percentage_diff_previous_year": -0.1078838174273859,
+      "total_jobs_per_10k": 154.3708490396697
+    },
+    {
+      "nuts_id": "DE241",
+      "total_jobs": 1331,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -246,
+      "total_diff_previous_year": -336,
+      "percentage_diff_previous_month": -0.15599239061509196,
+      "percentage_diff_previous_year": -0.20155968806238753,
+      "total_jobs_per_10k": 235.62526554312421
+    },
+    {
+      "nuts_id": "DE242",
+      "total_jobs": 1290,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -24,
+      "total_diff_previous_year": -3143,
+      "percentage_diff_previous_month": -0.0182648401826484,
+      "percentage_diff_previous_year": -0.7090006767426122,
+      "total_jobs_per_10k": 264.26303390351325
+    },
+    {
+      "nuts_id": "DE243",
+      "total_jobs": 803,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -33,
+      "total_diff_previous_year": -136,
+      "percentage_diff_previous_month": -0.039473684210526314,
+      "percentage_diff_previous_year": -0.1448349307774228,
+      "total_jobs_per_10k": 234.76786340778855
+    },
+    {
+      "nuts_id": "DE244",
+      "total_jobs": 633,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -78,
+      "total_diff_previous_year": -86,
+      "percentage_diff_previous_month": -0.10970464135021098,
+      "percentage_diff_previous_year": -0.11961057023643949,
+      "total_jobs_per_10k": 247.89504601527315
+    },
+    {
+      "nuts_id": "DE245",
+      "total_jobs": 1289,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -979,
+      "total_diff_previous_year": 348,
+      "percentage_diff_previous_month": -0.431657848324515,
+      "percentage_diff_previous_year": 0.3698193411264612,
+      "total_jobs_per_10k": 322.48380075554775
+    },
+    {
+      "nuts_id": "DE246",
+      "total_jobs": 728,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 73,
+      "total_diff_previous_year": 110,
+      "percentage_diff_previous_month": 0.1114503816793893,
+      "percentage_diff_previous_year": 0.1779935275080906,
+      "total_jobs_per_10k": 293.5602242025888
+    },
+    {
+      "nuts_id": "DE247",
+      "total_jobs": 768,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 118,
+      "total_diff_previous_year": 104,
+      "percentage_diff_previous_month": 0.1815384615384615,
+      "percentage_diff_previous_year": 0.1566265060240964,
+      "total_jobs_per_10k": 263.51003602676275
+    },
+    {
+      "nuts_id": "DE248",
+      "total_jobs": 1021,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 102,
+      "total_diff_previous_year": 48,
+      "percentage_diff_previous_month": 0.1109902067464635,
+      "percentage_diff_previous_year": 0.0493319630010277,
+      "total_jobs_per_10k": 301.7139479905437
+    },
+    {
+      "nuts_id": "DE249",
+      "total_jobs": 869,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -23,
+      "total_diff_previous_year": 1,
+      "percentage_diff_previous_month": -0.0257847533632287,
+      "percentage_diff_previous_year": 0.0011520737327189,
+      "total_jobs_per_10k": 240.0287261076124
+    },
+    {
+      "nuts_id": "DE24A",
+      "total_jobs": 593,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 51,
+      "total_diff_previous_year": 171,
+      "percentage_diff_previous_month": 0.0940959409594096,
+      "percentage_diff_previous_year": 0.4052132701421801,
+      "total_jobs_per_10k": 233.09748427672955
+    },
+    {
+      "nuts_id": "DE24B",
+      "total_jobs": 843,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 165,
+      "total_diff_previous_year": 119,
+      "percentage_diff_previous_month": 0.2433628318584071,
+      "percentage_diff_previous_year": 0.1643646408839779,
+      "total_jobs_per_10k": 290.67963173683665
+    },
+    {
+      "nuts_id": "DE24C",
+      "total_jobs": 579,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -18,
+      "total_diff_previous_year": -47,
+      "percentage_diff_previous_month": -0.03015075376884422,
+      "percentage_diff_previous_year": -0.07507987220447285,
+      "total_jobs_per_10k": 203.03678507556896
+    },
+    {
+      "nuts_id": "DE24D",
+      "total_jobs": 666,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 247,
+      "total_diff_previous_year": -46,
+      "percentage_diff_previous_month": 0.5894988066825776,
+      "percentage_diff_previous_year": -0.06460674157303371,
+      "total_jobs_per_10k": 224.06890286983145
+    },
+    {
+      "nuts_id": "DE251",
+      "total_jobs": 558,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -106,
+      "total_diff_previous_year": -22,
+      "percentage_diff_previous_month": -0.15963855421686746,
+      "percentage_diff_previous_year": -0.03793103448275862,
+      "total_jobs_per_10k": 198.16748348604304
+    },
+    {
+      "nuts_id": "DE252",
+      "total_jobs": 2103,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -167,
+      "total_diff_previous_year": -656,
+      "percentage_diff_previous_month": -0.07356828193832599,
+      "percentage_diff_previous_year": -0.23776730699528814,
+      "total_jobs_per_10k": 221.0752055168934
+    },
+    {
+      "nuts_id": "DE253",
+      "total_jobs": 1200,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 25,
+      "total_diff_previous_year": -15,
+      "percentage_diff_previous_month": 0.0212765957446809,
+      "percentage_diff_previous_year": -0.012345679012345678,
+      "total_jobs_per_10k": 236.3647107486852
+    },
+    {
+      "nuts_id": "DE254",
+      "total_jobs": 10292,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 2092,
+      "total_diff_previous_year": 1346,
+      "percentage_diff_previous_month": 0.2551219512195122,
+      "percentage_diff_previous_year": 0.1504583053878829,
+      "total_jobs_per_10k": 325.1179863660199
+    },
+    {
+      "nuts_id": "DE255",
+      "total_jobs": 418,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 77,
+      "total_diff_previous_year": -7,
+      "percentage_diff_previous_month": 0.2258064516129032,
+      "percentage_diff_previous_year": -0.01647058823529412,
+      "total_jobs_per_10k": 246.50586778321636
+    },
+    {
+      "nuts_id": "DE256",
+      "total_jobs": 1399,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 63,
+      "total_diff_previous_year": -62,
+      "percentage_diff_previous_month": 0.0471556886227545,
+      "percentage_diff_previous_year": -0.04243668720054757,
+      "total_jobs_per_10k": 220.01006479209914
+    },
+    {
+      "nuts_id": "DE257",
+      "total_jobs": 1538,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 137,
+      "total_diff_previous_year": 51,
+      "percentage_diff_previous_month": 0.0977872947894361,
+      "percentage_diff_previous_year": 0.0342972427706792,
+      "total_jobs_per_10k": 289.3261597501787
+    },
+    {
+      "nuts_id": "DE258",
+      "total_jobs": 720,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 63,
+      "total_diff_previous_year": 38,
+      "percentage_diff_previous_month": 0.0958904109589041,
+      "percentage_diff_previous_year": 0.0557184750733138,
+      "total_jobs_per_10k": 280.6689276108058
+    },
+    {
+      "nuts_id": "DE259",
+      "total_jobs": 1330,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 113,
+      "total_diff_previous_year": -12,
+      "percentage_diff_previous_month": 0.0928512736236647,
+      "percentage_diff_previous_year": -0.00894187779433681,
+      "total_jobs_per_10k": 234.91177561509795
+    },
+    {
+      "nuts_id": "DE25A",
+      "total_jobs": 1025,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 178,
+      "total_diff_previous_year": 124,
+      "percentage_diff_previous_month": 0.2101534828807556,
+      "percentage_diff_previous_year": 0.1376248612652608,
+      "total_jobs_per_10k": 298.2772669072285
+    },
+    {
+      "nuts_id": "DE25B",
+      "total_jobs": 1182,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 127,
+      "total_diff_previous_year": 52,
+      "percentage_diff_previous_month": 0.1203791469194313,
+      "percentage_diff_previous_year": 0.0460176991150442,
+      "total_jobs_per_10k": 286.21240738050267
+    },
+    {
+      "nuts_id": "DE25C",
+      "total_jobs": 648,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 94,
+      "total_diff_previous_year": 64,
+      "percentage_diff_previous_month": 0.1696750902527076,
+      "percentage_diff_previous_year": 0.1095890410958904,
+      "total_jobs_per_10k": 198.32282548815573
+    },
+    {
+      "nuts_id": "DE261",
+      "total_jobs": 986,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -28,
+      "total_diff_previous_year": -186,
+      "percentage_diff_previous_month": -0.027613412228796843,
+      "percentage_diff_previous_year": -0.15870307167235495,
+      "total_jobs_per_10k": 206.7259308956726
+    },
+    {
+      "nuts_id": "DE262",
+      "total_jobs": 1048,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -35,
+      "total_diff_previous_year": -141,
+      "percentage_diff_previous_month": -0.032317636195752536,
+      "percentage_diff_previous_year": -0.11858704793944491,
+      "total_jobs_per_10k": 194.76295786950138
+    },
+    {
+      "nuts_id": "DE263",
+      "total_jobs": 2159,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -298,
+      "total_diff_previous_year": -931,
+      "percentage_diff_previous_month": -0.12128612128612129,
+      "percentage_diff_previous_year": -0.301294498381877,
+      "total_jobs_per_10k": 228.5042970238347
+    },
+    {
+      "nuts_id": "DE264",
+      "total_jobs": 1298,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 27,
+      "total_diff_previous_year": -52,
+      "percentage_diff_previous_month": 0.021243115656963,
+      "percentage_diff_previous_year": -0.03851851851851852,
+      "total_jobs_per_10k": 235.20458087196027
+    },
+    {
+      "nuts_id": "DE265",
+      "total_jobs": 839,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 6,
+      "total_diff_previous_year": 159,
+      "percentage_diff_previous_month": 0.007202881152461,
+      "percentage_diff_previous_year": 0.2338235294117647,
+      "total_jobs_per_10k": 233.32777128872573
+    },
+    {
+      "nuts_id": "DE266",
+      "total_jobs": 583,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 64,
+      "total_diff_previous_year": 27,
+      "percentage_diff_previous_month": 0.1233140655105973,
+      "percentage_diff_previous_year": 0.0485611510791367,
+      "total_jobs_per_10k": 174.5456722852609
+    },
+    {
+      "nuts_id": "DE267",
+      "total_jobs": 549,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 28,
+      "total_diff_previous_year": -4,
+      "percentage_diff_previous_month": 0.053742802303263,
+      "percentage_diff_previous_year": -0.007233273056057866,
+      "total_jobs_per_10k": 192.08565130681222
+    },
+    {
+      "nuts_id": "DE268",
+      "total_jobs": 891,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -60,
+      "total_diff_previous_year": -37,
+      "percentage_diff_previous_month": -0.06309148264984227,
+      "percentage_diff_previous_year": -0.03987068965517242,
+      "total_jobs_per_10k": 254.143016058644
+    },
+    {
+      "nuts_id": "DE269",
+      "total_jobs": 778,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 114,
+      "total_diff_previous_year": 88,
+      "percentage_diff_previous_month": 0.1716867469879518,
+      "percentage_diff_previous_year": 0.127536231884058,
+      "total_jobs_per_10k": 173.51740749827152
+    },
+    {
+      "nuts_id": "DE26A",
+      "total_jobs": 907,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -149,
+      "total_diff_previous_year": -24,
+      "percentage_diff_previous_month": -0.14109848484848486,
+      "percentage_diff_previous_year": -0.02577873254564984,
+      "total_jobs_per_10k": 188.14694961312674
+    },
+    {
+      "nuts_id": "DE26B",
+      "total_jobs": 663,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -102,
+      "total_diff_previous_year": 36,
+      "percentage_diff_previous_month": -0.13333333333333333,
+      "percentage_diff_previous_year": 0.0574162679425837,
+      "total_jobs_per_10k": 244.05506883604505
+    },
+    {
+      "nuts_id": "DE26C",
+      "total_jobs": 1103,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -249,
+      "total_diff_previous_year": -33,
+      "percentage_diff_previous_month": -0.1841715976331361,
+      "percentage_diff_previous_year": -0.029049295774647887,
+      "total_jobs_per_10k": 269.24109649229865
+    },
+    {
+      "nuts_id": "DE271",
+      "total_jobs": 5491,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 1352,
+      "total_diff_previous_year": 1131,
+      "percentage_diff_previous_month": 0.3266489490215028,
+      "percentage_diff_previous_year": 0.2594036697247706,
+      "total_jobs_per_10k": 369.4732096597294
+    },
+    {
+      "nuts_id": "DE272",
+      "total_jobs": 406,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -201,
+      "total_diff_previous_year": -221,
+      "percentage_diff_previous_month": -0.3311367380560132,
+      "percentage_diff_previous_year": -0.3524720893141946,
+      "total_jobs_per_10k": 203.61083249749248
+    },
+    {
+      "nuts_id": "DE273",
+      "total_jobs": 1532,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 366,
+      "total_diff_previous_year": 138,
+      "percentage_diff_previous_month": 0.313893653516295,
+      "percentage_diff_previous_year": 0.0989956958393113,
+      "total_jobs_per_10k": 397.19989629245526
+    },
+    {
+      "nuts_id": "DE274",
+      "total_jobs": 881,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -78,
+      "total_diff_previous_year": -165,
+      "percentage_diff_previous_month": -0.08133472367049009,
+      "percentage_diff_previous_year": -0.1577437858508604,
+      "total_jobs_per_10k": 280.49285236715593
+    },
+    {
+      "nuts_id": "DE275",
+      "total_jobs": 879,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -64,
+      "total_diff_previous_year": -38,
+      "percentage_diff_previous_month": -0.06786850477200425,
+      "percentage_diff_previous_year": -0.04143947655398037,
+      "total_jobs_per_10k": 231.5412375207439
+    },
+    {
+      "nuts_id": "DE276",
+      "total_jobs": 2108,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 65,
+      "total_diff_previous_year": 242,
+      "percentage_diff_previous_month": 0.0318159569260891,
+      "percentage_diff_previous_year": 0.1296891747052519,
+      "total_jobs_per_10k": 256.7756867044278
+    },
+    {
+      "nuts_id": "DE277",
+      "total_jobs": 707,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 41,
+      "total_diff_previous_year": 75,
+      "percentage_diff_previous_month": 0.0615615615615616,
+      "percentage_diff_previous_year": 0.1186708860759494,
+      "total_jobs_per_10k": 202.0057715934741
+    },
+    {
+      "nuts_id": "DE278",
+      "total_jobs": 1352,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 72,
+      "total_diff_previous_year": 45,
+      "percentage_diff_previous_month": 0.05625,
+      "percentage_diff_previous_year": 0.0344299923488906,
+      "total_jobs_per_10k": 243.36681427079958
+    },
+    {
+      "nuts_id": "DE279",
+      "total_jobs": 1848,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -49,
+      "total_diff_previous_year": 17,
+      "percentage_diff_previous_month": -0.025830258302583026,
+      "percentage_diff_previous_year": 0.0092845439650464,
+      "total_jobs_per_10k": 279.3270756813132
+    },
+    {
+      "nuts_id": "DE27A",
+      "total_jobs": 952,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -78,
+      "total_diff_previous_year": -23,
+      "percentage_diff_previous_month": -0.07572815533980583,
+      "percentage_diff_previous_year": -0.02358974358974359,
+      "total_jobs_per_10k": 297.72329246935203
+    },
+    {
+      "nuts_id": "DE27B",
+      "total_jobs": 1227,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -228,
+      "total_diff_previous_year": -363,
+      "percentage_diff_previous_month": -0.15670103092783505,
+      "percentage_diff_previous_year": -0.22830188679245284,
+      "total_jobs_per_10k": 237.45016836320005
+    },
+    {
+      "nuts_id": "DE27C",
+      "total_jobs": 1409,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 42,
+      "total_diff_previous_year": -447,
+      "percentage_diff_previous_month": 0.0307242136064375,
+      "percentage_diff_previous_year": -0.2408405172413793,
+      "total_jobs_per_10k": 259.8480377692535
+    },
+    {
+      "nuts_id": "DE27D",
+      "total_jobs": 1291,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -19,
+      "total_diff_previous_year": -119,
+      "percentage_diff_previous_month": -0.01450381679389313,
+      "percentage_diff_previous_year": -0.08439716312056737,
+      "total_jobs_per_10k": 201.16867939228672
+    },
+    {
+      "nuts_id": "DE27E",
+      "total_jobs": 1678,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -195,
+      "total_diff_previous_year": -194,
+      "percentage_diff_previous_month": -0.10411105178857448,
+      "percentage_diff_previous_year": -0.10363247863247864,
+      "total_jobs_per_10k": 295.88094230497956
+    },
+    {
+      "nuts_id": "DE300",
+      "total_jobs": 46893,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -2978,
+      "total_diff_previous_year": -11464,
+      "percentage_diff_previous_month": -0.05971406228068416,
+      "percentage_diff_previous_year": -0.19644601333173398,
+      "total_jobs_per_10k": 288.9674373204468
+    },
+    {
+      "nuts_id": "DE401",
+      "total_jobs": 1003,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -127,
+      "total_diff_previous_year": -461,
+      "percentage_diff_previous_month": -0.11238938053097346,
+      "percentage_diff_previous_year": -0.31489071038251365,
+      "total_jobs_per_10k": 328.6477276450736
+    },
+    {
+      "nuts_id": "DE402",
+      "total_jobs": 1007,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -241,
+      "total_diff_previous_year": -43,
+      "percentage_diff_previous_month": -0.19310897435897437,
+      "percentage_diff_previous_year": -0.040952380952380955,
+      "total_jobs_per_10k": 207.205909586617
+    },
+    {
+      "nuts_id": "DE403",
+      "total_jobs": 417,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 21,
+      "total_diff_previous_year": -262,
+      "percentage_diff_previous_month": 0.053030303030303,
+      "percentage_diff_previous_year": -0.3858615611192931,
+      "total_jobs_per_10k": 143.877445399027
+    },
+    {
+      "nuts_id": "DE404",
+      "total_jobs": 2271,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -91,
+      "total_diff_previous_year": -168,
+      "percentage_diff_previous_month": -0.03852667231160034,
+      "percentage_diff_previous_year": -0.06888068880688807,
+      "total_jobs_per_10k": 257.44796626309346
+    },
+    {
+      "nuts_id": "DE405",
+      "total_jobs": 1205,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 234,
+      "total_diff_previous_year": -82,
+      "percentage_diff_previous_month": 0.2409886714727085,
+      "percentage_diff_previous_year": -0.06371406371406371,
+      "total_jobs_per_10k": 228.33213324743244
+    },
+    {
+      "nuts_id": "DE406",
+      "total_jobs": 1752,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 3,
+      "total_diff_previous_year": 12,
+      "percentage_diff_previous_month": 0.0017152658662093,
+      "percentage_diff_previous_year": 0.0068965517241379,
+      "total_jobs_per_10k": 273.510678156613
+    },
+    {
+      "nuts_id": "DE407",
+      "total_jobs": 782,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 130,
+      "total_diff_previous_year": 63,
+      "percentage_diff_previous_month": 0.1993865030674847,
+      "percentage_diff_previous_year": 0.0876216968011127,
+      "total_jobs_per_10k": 234.94772262949164
+    },
+    {
+      "nuts_id": "DE408",
+      "total_jobs": 1319,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 60,
+      "total_diff_previous_year": -223,
+      "percentage_diff_previous_month": 0.0476568705321684,
+      "percentage_diff_previous_year": -0.14461738002594035,
+      "total_jobs_per_10k": 282.78627017987696
+    },
+    {
+      "nuts_id": "DE409",
+      "total_jobs": 1228,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 111,
+      "total_diff_previous_year": 256,
+      "percentage_diff_previous_month": 0.099373321396598,
+      "percentage_diff_previous_year": 0.2633744855967078,
+      "total_jobs_per_10k": 231.78120458277496
+    },
+    {
+      "nuts_id": "DE40A",
+      "total_jobs": 2600,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -494,
+      "total_diff_previous_year": 672,
+      "percentage_diff_previous_month": -0.15966386554621848,
+      "percentage_diff_previous_year": 0.3485477178423237,
+      "total_jobs_per_10k": 434.55733649780217
+    },
+    {
+      "nuts_id": "DE40B",
+      "total_jobs": 893,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -30,
+      "total_diff_previous_year": -53,
+      "percentage_diff_previous_month": -0.032502708559046585,
+      "percentage_diff_previous_year": -0.056025369978858354,
+      "total_jobs_per_10k": 221.48366774969617
+    },
+    {
+      "nuts_id": "DE40C",
+      "total_jobs": 1208,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 5,
+      "total_diff_previous_year": -379,
+      "percentage_diff_previous_month": 0.0041562759767249,
+      "percentage_diff_previous_year": -0.23881537492123503,
+      "total_jobs_per_10k": 203.8371327809932
+    },
+    {
+      "nuts_id": "DE40D",
+      "total_jobs": 769,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 164,
+      "total_diff_previous_year": -187,
+      "percentage_diff_previous_month": 0.2710743801652893,
+      "percentage_diff_previous_year": -0.19560669456066945,
+      "total_jobs_per_10k": 214.27178244030205
+    },
+    {
+      "nuts_id": "DE40E",
+      "total_jobs": 1646,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 69,
+      "total_diff_previous_year": -163,
+      "percentage_diff_previous_month": 0.0437539632213063,
+      "percentage_diff_previous_year": -0.09010503040353787,
+      "total_jobs_per_10k": 259.24117619265115
+    },
+    {
+      "nuts_id": "DE40F",
+      "total_jobs": 680,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 240,
+      "total_diff_previous_year": 112,
+      "percentage_diff_previous_month": 0.5454545454545455,
+      "percentage_diff_previous_year": 0.1971830985915493,
+      "total_jobs_per_10k": 241.12620119853906
+    },
+    {
+      "nuts_id": "DE40G",
+      "total_jobs": 594,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 29,
+      "total_diff_previous_year": -33,
+      "percentage_diff_previous_month": 0.0513274336283186,
+      "percentage_diff_previous_year": -0.05263157894736842,
+      "total_jobs_per_10k": 166.186386145539
+    },
+    {
+      "nuts_id": "DE40H",
+      "total_jobs": 1791,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 186,
+      "total_diff_previous_year": -327,
+      "percentage_diff_previous_month": 0.1158878504672897,
+      "percentage_diff_previous_year": -0.15439093484419264,
+      "total_jobs_per_10k": 262.09116850808516
+    },
+    {
+      "nuts_id": "DE40I",
+      "total_jobs": 886,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 249,
+      "total_diff_previous_year": 188,
+      "percentage_diff_previous_month": 0.390894819466248,
+      "percentage_diff_previous_year": 0.2693409742120344,
+      "total_jobs_per_10k": 223.30880129045266
+    },
+    {
+      "nuts_id": "DE501",
+      "total_jobs": 9644,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 2214,
+      "total_diff_previous_year": -1362,
+      "percentage_diff_previous_month": 0.2979811574697174,
+      "percentage_diff_previous_year": -0.12375068144648374,
+      "total_jobs_per_10k": 334.5788102399711
+    },
+    {
+      "nuts_id": "DE502",
+      "total_jobs": 1048,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -48,
+      "total_diff_previous_year": -211,
+      "percentage_diff_previous_month": -0.043795620437956206,
+      "percentage_diff_previous_year": -0.1675933280381255,
+      "total_jobs_per_10k": 195.67936964355732
+    },
+    {
+      "nuts_id": "DE600",
+      "total_jobs": 29086,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 1285,
+      "total_diff_previous_year": -2366,
+      "percentage_diff_previous_month": 0.04622135894392288,
+      "percentage_diff_previous_year": -0.07522574081139514,
+      "total_jobs_per_10k": 282.78947127916393
+    },
+    {
+      "nuts_id": "DE711",
+      "total_jobs": 2714,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 28,
+      "total_diff_previous_year": -607,
+      "percentage_diff_previous_month": 0.0104244229337305,
+      "percentage_diff_previous_year": -0.18277627220716652,
+      "total_jobs_per_10k": 246.8349825378347
+    },
+    {
+      "nuts_id": "DE712",
+      "total_jobs": 18563,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 952,
+      "total_diff_previous_year": -528,
+      "percentage_diff_previous_month": 0.054057123388791095,
+      "percentage_diff_previous_year": -0.02765701115708973,
+      "total_jobs_per_10k": 303.5719542229912
+    },
+    {
+      "nuts_id": "DE713",
+      "total_jobs": 1312,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 39,
+      "total_diff_previous_year": -279,
+      "percentage_diff_previous_month": 0.0306362922230951,
+      "percentage_diff_previous_year": -0.17536140791954746,
+      "total_jobs_per_10k": 273.1682941556143
+    },
+    {
+      "nuts_id": "DE714",
+      "total_jobs": 3565,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 141,
+      "total_diff_previous_year": -1474,
+      "percentage_diff_previous_month": 0.0411799065420561,
+      "percentage_diff_previous_year": -0.29251835681682875,
+      "total_jobs_per_10k": 247.1935043232861
+    },
+    {
+      "nuts_id": "DE715",
+      "total_jobs": 1921,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 200,
+      "total_diff_previous_year": -92,
+      "percentage_diff_previous_month": 0.116211504938989,
+      "percentage_diff_previous_year": -0.04570293094883259,
+      "total_jobs_per_10k": 243.85599675027927
+    },
+    {
+      "nuts_id": "DE716",
+      "total_jobs": 2055,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -354,
+      "total_diff_previous_year": 25,
+      "percentage_diff_previous_month": -0.14694894146948942,
+      "percentage_diff_previous_year": 0.0123152709359606,
+      "total_jobs_per_10k": 255.6956040264281
+    },
+    {
+      "nuts_id": "DE717",
+      "total_jobs": 2283,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -140,
+      "total_diff_previous_year": -310,
+      "percentage_diff_previous_month": -0.05777961205117623,
+      "percentage_diff_previous_year": -0.1195526417277285,
+      "total_jobs_per_10k": 230.296672147519
+    },
+    {
+      "nuts_id": "DE718",
+      "total_jobs": 2058,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -22,
+      "total_diff_previous_year": -236,
+      "percentage_diff_previous_month": -0.010576923076923078,
+      "percentage_diff_previous_year": -0.1028770706190061,
+      "total_jobs_per_10k": 206.81754230815613
+    },
+    {
+      "nuts_id": "DE719",
+      "total_jobs": 3051,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 54,
+      "total_diff_previous_year": -300,
+      "percentage_diff_previous_month": 0.018018018018018,
+      "percentage_diff_previous_year": -0.08952551477170993,
+      "total_jobs_per_10k": 215.60770845258537
+    },
+    {
+      "nuts_id": "DE71A",
+      "total_jobs": 2392,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -236,
+      "total_diff_previous_year": 64,
+      "percentage_diff_previous_month": -0.0898021308980213,
+      "percentage_diff_previous_year": 0.0274914089347079,
+      "total_jobs_per_10k": 220.14836085187844
+    },
+    {
+      "nuts_id": "DE71B",
+      "total_jobs": 420,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -79,
+      "total_diff_previous_year": -55,
+      "percentage_diff_previous_month": -0.15831663326653306,
+      "percentage_diff_previous_year": -0.11578947368421053,
+      "total_jobs_per_10k": 147.0124960621653
+    },
+    {
+      "nuts_id": "DE71C",
+      "total_jobs": 2852,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -174,
+      "total_diff_previous_year": -366,
+      "percentage_diff_previous_month": -0.05750165234633179,
+      "percentage_diff_previous_year": -0.11373523927905531,
+      "total_jobs_per_10k": 218.08116106043113
+    },
+    {
+      "nuts_id": "DE71D",
+      "total_jobs": 1211,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 108,
+      "total_diff_previous_year": 160,
+      "percentage_diff_previous_month": 0.0979147778785131,
+      "percentage_diff_previous_year": 0.1522359657469077,
+      "total_jobs_per_10k": 261.1883964197132
+    },
+    {
+      "nuts_id": "DE71E",
+      "total_jobs": 2987,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 598,
+      "total_diff_previous_year": 856,
+      "percentage_diff_previous_month": 0.2503139388865634,
+      "percentage_diff_previous_year": 0.4016893477240732,
+      "total_jobs_per_10k": 325.83203342314533
+    },
+    {
+      "nuts_id": "DE721",
+      "total_jobs": 2241,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -202,
+      "total_diff_previous_year": -158,
+      "percentage_diff_previous_month": -0.08268522308636922,
+      "percentage_diff_previous_year": -0.06586077532305128,
+      "total_jobs_per_10k": 213.49770401844407
+    },
+    {
+      "nuts_id": "DE722",
+      "total_jobs": 1983,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 122,
+      "total_diff_previous_year": -88,
+      "percentage_diff_previous_month": 0.0655561526061257,
+      "percentage_diff_previous_year": -0.04249154997585707,
+      "total_jobs_per_10k": 203.8550501156515
+    },
+    {
+      "nuts_id": "DE723",
+      "total_jobs": 1520,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 341,
+      "total_diff_previous_year": 234,
+      "percentage_diff_previous_month": 0.2892281594571671,
+      "percentage_diff_previous_year": 0.1819595645412131,
+      "total_jobs_per_10k": 267.21516094439465
+    },
+    {
+      "nuts_id": "DE724",
+      "total_jobs": 1871,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 308,
+      "total_diff_previous_year": 71,
+      "percentage_diff_previous_month": 0.1970569417786308,
+      "percentage_diff_previous_year": 0.0394444444444444,
+      "total_jobs_per_10k": 197.17152130843485
+    },
+    {
+      "nuts_id": "DE725",
+      "total_jobs": 1063,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 105,
+      "total_diff_previous_year": -1234,
+      "percentage_diff_previous_month": 0.1096033402922756,
+      "percentage_diff_previous_year": -0.5372224640835873,
+      "total_jobs_per_10k": 319.1138062501876
+    },
+    {
+      "nuts_id": "DE731",
+      "total_jobs": 2854,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -216,
+      "total_diff_previous_year": 131,
+      "percentage_diff_previous_month": -0.07035830618892508,
+      "percentage_diff_previous_year": 0.0481087036356959,
+      "total_jobs_per_10k": 246.75560474144265
+    },
+    {
+      "nuts_id": "DE732",
+      "total_jobs": 2022,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -314,
+      "total_diff_previous_year": 72,
+      "percentage_diff_previous_month": -0.1344178082191781,
+      "percentage_diff_previous_year": 0.0369230769230769,
+      "total_jobs_per_10k": 207.86643913070296
+    },
+    {
+      "nuts_id": "DE733",
+      "total_jobs": 1299,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 168,
+      "total_diff_previous_year": 151,
+      "percentage_diff_previous_month": 0.1485411140583554,
+      "percentage_diff_previous_year": 0.1315331010452962,
+      "total_jobs_per_10k": 258.9661290644126
+    },
+    {
+      "nuts_id": "DE734",
+      "total_jobs": 1342,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 140,
+      "total_diff_previous_year": 130,
+      "percentage_diff_previous_month": 0.1164725457570715,
+      "percentage_diff_previous_year": 0.1072607260726073,
+      "total_jobs_per_10k": 174.63498425422273
+    },
+    {
+      "nuts_id": "DE735",
+      "total_jobs": 1261,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 140,
+      "total_diff_previous_year": 41,
+      "percentage_diff_previous_month": 0.1248884924174844,
+      "percentage_diff_previous_year": 0.0336065573770492,
+      "total_jobs_per_10k": 213.49722335094134
+    },
+    {
+      "nuts_id": "DE736",
+      "total_jobs": 1368,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 159,
+      "total_diff_previous_year": 117,
+      "percentage_diff_previous_month": 0.1315136476426799,
+      "percentage_diff_previous_year": 0.0935251798561151,
+      "total_jobs_per_10k": 209.45294198704698
+    },
+    {
+      "nuts_id": "DE737",
+      "total_jobs": 811,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 255,
+      "total_diff_previous_year": 130,
+      "percentage_diff_previous_month": 0.4586330935251799,
+      "percentage_diff_previous_year": 0.1908957415565345,
+      "total_jobs_per_10k": 279.0393614093036
+    },
+    {
+      "nuts_id": "DE803",
+      "total_jobs": 2033,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -450,
+      "total_diff_previous_year": -347,
+      "percentage_diff_previous_month": -0.18123238018525978,
+      "percentage_diff_previous_year": -0.1457983193277311,
+      "total_jobs_per_10k": 213.1340028935064
+    },
+    {
+      "nuts_id": "DE804",
+      "total_jobs": 1199,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -182,
+      "total_diff_previous_year": -211,
+      "percentage_diff_previous_month": -0.13178855901520636,
+      "percentage_diff_previous_year": -0.14964539007092198,
+      "total_jobs_per_10k": 232.65741728922092
+    },
+    {
+      "nuts_id": "DE80J",
+      "total_jobs": 2371,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 200,
+      "total_diff_previous_year": -185,
+      "percentage_diff_previous_month": 0.0921234454168586,
+      "percentage_diff_previous_year": -0.07237871674491393,
+      "total_jobs_per_10k": 255.88724125277903
+    },
+    {
+      "nuts_id": "DE80K",
+      "total_jobs": 1457,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -17,
+      "total_diff_previous_year": -7,
+      "percentage_diff_previous_month": -0.011533242876526458,
+      "percentage_diff_previous_year": -0.0047814207650273225,
+      "total_jobs_per_10k": 210.72880056695737
+    },
+    {
+      "nuts_id": "DE80L",
+      "total_jobs": 1360,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 84,
+      "total_diff_previous_year": -119,
+      "percentage_diff_previous_month": 0.0658307210031348,
+      "percentage_diff_previous_year": -0.08045977011494253,
+      "total_jobs_per_10k": 184.24689083371717
+    },
+    {
+      "nuts_id": "DE80M",
+      "total_jobs": 1213,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 183,
+      "total_diff_previous_year": -61,
+      "percentage_diff_previous_month": 0.1776699029126214,
+      "percentage_diff_previous_year": -0.047880690737833596,
+      "total_jobs_per_10k": 251.86354103943023
+    },
+    {
+      "nuts_id": "DE80N",
+      "total_jobs": 1464,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 257,
+      "total_diff_previous_year": -395,
+      "percentage_diff_previous_month": 0.2129246064623032,
+      "percentage_diff_previous_year": -0.21247982786444325,
+      "total_jobs_per_10k": 175.1259016471883
+    },
+    {
+      "nuts_id": "DE80O",
+      "total_jobs": 1471,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -29,
+      "total_diff_previous_year": 82,
+      "percentage_diff_previous_month": -0.019333333333333334,
+      "percentage_diff_previous_year": 0.0590352771778258,
+      "total_jobs_per_10k": 221.27288316611262
+    },
+    {
+      "nuts_id": "DE911",
+      "total_jobs": 3579,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -159,
+      "total_diff_previous_year": -4256,
+      "percentage_diff_previous_month": -0.04253611556982344,
+      "percentage_diff_previous_year": -0.5432035737077218,
+      "total_jobs_per_10k": 265.6916966705022
+    },
+    {
+      "nuts_id": "DE912",
+      "total_jobs": 870,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 97,
+      "total_diff_previous_year": 3,
+      "percentage_diff_previous_month": 0.1254851228978008,
+      "percentage_diff_previous_year": 0.0034602076124567,
+      "total_jobs_per_10k": 179.67039775308743
+    },
+    {
+      "nuts_id": "DE913",
+      "total_jobs": 1671,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -736,
+      "total_diff_previous_year": -518,
+      "percentage_diff_previous_month": -0.3057748234316577,
+      "percentage_diff_previous_year": -0.2366377341251713,
+      "total_jobs_per_10k": 139.55935657373846
+    },
+    {
+      "nuts_id": "DE914",
+      "total_jobs": 930,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 4,
+      "total_diff_previous_year": 31,
+      "percentage_diff_previous_month": 0.0043196544276458,
+      "percentage_diff_previous_year": 0.0344827586206897,
+      "total_jobs_per_10k": 209.45474201031507
+    },
+    {
+      "nuts_id": "DE916",
+      "total_jobs": 1062,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 245,
+      "total_diff_previous_year": 74,
+      "percentage_diff_previous_month": 0.2998776009791922,
+      "percentage_diff_previous_year": 0.0748987854251012,
+      "total_jobs_per_10k": 233.75594294770207
+    },
+    {
+      "nuts_id": "DE917",
+      "total_jobs": 731,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 96,
+      "total_diff_previous_year": 45,
+      "percentage_diff_previous_month": 0.1511811023622047,
+      "percentage_diff_previous_year": 0.065597667638484,
+      "total_jobs_per_10k": 305.0281660755268
+    },
+    {
+      "nuts_id": "DE918",
+      "total_jobs": 1055,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 140,
+      "total_diff_previous_year": 117,
+      "percentage_diff_previous_month": 0.1530054644808743,
+      "percentage_diff_previous_year": 0.1247334754797441,
+      "total_jobs_per_10k": 228.58752410460858
+    },
+    {
+      "nuts_id": "DE91A",
+      "total_jobs": 792,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -11,
+      "total_diff_previous_year": 95,
+      "percentage_diff_previous_month": -0.0136986301369863,
+      "percentage_diff_previous_year": 0.1362984218077475,
+      "total_jobs_per_10k": 236.870439047733
+    },
+    {
+      "nuts_id": "DE91B",
+      "total_jobs": 615,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -7,
+      "total_diff_previous_year": 12,
+      "percentage_diff_previous_month": -0.011254019292604502,
+      "percentage_diff_previous_year": 0.0199004975124378,
+      "total_jobs_per_10k": 231.5512048192771
+    },
+    {
+      "nuts_id": "DE91C",
+      "total_jobs": 2843,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -136,
+      "total_diff_previous_year": -223,
+      "percentage_diff_previous_month": -0.045652903658945955,
+      "percentage_diff_previous_year": -0.07273320287018917,
+      "total_jobs_per_10k": 210.0899329751779
+    },
+    {
+      "nuts_id": "DE922",
+      "total_jobs": 1607,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -5,
+      "total_diff_previous_year": 169,
+      "percentage_diff_previous_month": -0.003101736972704715,
+      "percentage_diff_previous_year": 0.1175243393602225,
+      "total_jobs_per_10k": 216.67902649497742
+    },
+    {
+      "nuts_id": "DE923",
+      "total_jobs": 991,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 4,
+      "total_diff_previous_year": 50,
+      "percentage_diff_previous_month": 0.0040526849037487,
+      "percentage_diff_previous_year": 0.053134962805526,
+      "total_jobs_per_10k": 185.05377950403346
+    },
+    {
+      "nuts_id": "DE925",
+      "total_jobs": 2433,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 363,
+      "total_diff_previous_year": 146,
+      "percentage_diff_previous_month": 0.1753623188405797,
+      "percentage_diff_previous_year": 0.0638390905115872,
+      "total_jobs_per_10k": 256.52109735782216
+    },
+    {
+      "nuts_id": "DE926",
+      "total_jobs": 562,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -16,
+      "total_diff_previous_year": 198,
+      "percentage_diff_previous_month": -0.02768166089965398,
+      "percentage_diff_previous_year": 0.543956043956044,
+      "total_jobs_per_10k": 239.17946971953867
+    },
+    {
+      "nuts_id": "DE927",
+      "total_jobs": 905,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 244,
+      "total_diff_previous_year": 211,
+      "percentage_diff_previous_month": 0.3691376701966717,
+      "percentage_diff_previous_year": 0.3040345821325648,
+      "total_jobs_per_10k": 218.95867608632537
+    },
+    {
+      "nuts_id": "DE928",
+      "total_jobs": 1044,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 138,
+      "total_diff_previous_year": 181,
+      "percentage_diff_previous_month": 0.152317880794702,
+      "percentage_diff_previous_year": 0.2097334878331402,
+      "total_jobs_per_10k": 217.8085621296837
+    },
+    {
+      "nuts_id": "DE929",
+      "total_jobs": 15198,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 1210,
+      "total_diff_previous_year": 947,
+      "percentage_diff_previous_month": 0.08650271661424078,
+      "percentage_diff_previous_year": 0.06645147708932707,
+      "total_jobs_per_10k": 284.0790142656339
+    },
+    {
+      "nuts_id": "DE931",
+      "total_jobs": 1841,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 202,
+      "total_diff_previous_year": -1212,
+      "percentage_diff_previous_month": 0.1232458816351434,
+      "percentage_diff_previous_year": -0.39698657058630854,
+      "total_jobs_per_10k": 312.61143468441696
+    },
+    {
+      "nuts_id": "DE932",
+      "total_jobs": 1025,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 61,
+      "total_diff_previous_year": 178,
+      "percentage_diff_previous_month": 0.0632780082987552,
+      "percentage_diff_previous_year": 0.2101534828807556,
+      "total_jobs_per_10k": 200.07417384005777
+    },
+    {
+      "nuts_id": "DE933",
+      "total_jobs": 2089,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 193,
+      "total_diff_previous_year": 98,
+      "percentage_diff_previous_month": 0.1017932489451477,
+      "percentage_diff_previous_year": 0.0492214967353089,
+      "total_jobs_per_10k": 296.73716956206766
+    },
+    {
+      "nuts_id": "DE934",
+      "total_jobs": 347,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 38,
+      "total_diff_previous_year": 18,
+      "percentage_diff_previous_month": 0.1229773462783172,
+      "percentage_diff_previous_year": 0.0547112462006079,
+      "total_jobs_per_10k": 239.44245100745238
+    },
+    {
+      "nuts_id": "DE935",
+      "total_jobs": 1734,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 188,
+      "total_diff_previous_year": 305,
+      "percentage_diff_previous_month": 0.1216041397153946,
+      "percentage_diff_previous_year": 0.2134359692092372,
+      "total_jobs_per_10k": 282.3874277338979
+    },
+    {
+      "nuts_id": "DE936",
+      "total_jobs": 549,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 17,
+      "total_diff_previous_year": -72,
+      "percentage_diff_previous_month": 0.0319548872180451,
+      "percentage_diff_previous_year": -0.11594202898550725,
+      "total_jobs_per_10k": 194.3431625898262
+    },
+    {
+      "nuts_id": "DE937",
+      "total_jobs": 1355,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 177,
+      "total_diff_previous_year": 153,
+      "percentage_diff_previous_month": 0.1502546689303905,
+      "percentage_diff_previous_year": 0.127287853577371,
+      "total_jobs_per_10k": 225.9086362120707
+    },
+    {
+      "nuts_id": "DE938",
+      "total_jobs": 1105,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 76,
+      "total_diff_previous_year": 73,
+      "percentage_diff_previous_month": 0.0738581146744412,
+      "percentage_diff_previous_year": 0.0707364341085271,
+      "total_jobs_per_10k": 226.32775536120272
+    },
+    {
+      "nuts_id": "DE939",
+      "total_jobs": 1658,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 165,
+      "total_diff_previous_year": 18,
+      "percentage_diff_previous_month": 0.1105157401205626,
+      "percentage_diff_previous_year": 0.0109756097560976,
+      "total_jobs_per_10k": 256.5253044110594
+    },
+    {
+      "nuts_id": "DE93A",
+      "total_jobs": 747,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 118,
+      "total_diff_previous_year": 195,
+      "percentage_diff_previous_month": 0.1875993640699523,
+      "percentage_diff_previous_year": 0.3532608695652174,
+      "total_jobs_per_10k": 238.1559650577058
+    },
+    {
+      "nuts_id": "DE93B",
+      "total_jobs": 1313,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 87,
+      "total_diff_previous_year": -36,
+      "percentage_diff_previous_month": 0.0709624796084829,
+      "percentage_diff_previous_year": -0.026686434395848776,
+      "total_jobs_per_10k": 251.36402795060783
+    },
+    {
+      "nuts_id": "DE941",
+      "total_jobs": 571,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 57,
+      "total_diff_previous_year": -8,
+      "percentage_diff_previous_month": 0.1108949416342412,
+      "percentage_diff_previous_year": -0.013816925734024179,
+      "total_jobs_per_10k": 262.78245662478713
+    },
+    {
+      "nuts_id": "DE942",
+      "total_jobs": 527,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 33,
+      "total_diff_previous_year": -60,
+      "percentage_diff_previous_month": 0.0668016194331984,
+      "percentage_diff_previous_year": -0.10221465076660988,
+      "total_jobs_per_10k": 160.39200170435524
+    },
+    {
+      "nuts_id": "DE943",
+      "total_jobs": 2005,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -213,
+      "total_diff_previous_year": -1466,
+      "percentage_diff_previous_month": -0.09603246167718665,
+      "percentage_diff_previous_year": -0.4223566695476808,
+      "total_jobs_per_10k": 224.8463643296102
+    },
+    {
+      "nuts_id": "DE944",
+      "total_jobs": 2034,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -351,
+      "total_diff_previous_year": -313,
+      "percentage_diff_previous_month": -0.1471698113207547,
+      "percentage_diff_previous_year": -0.13336173838943333,
+      "total_jobs_per_10k": 200.0786936848318
+    },
+    {
+      "nuts_id": "DE945",
+      "total_jobs": 676,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 93,
+      "total_diff_previous_year": -183,
+      "percentage_diff_previous_month": 0.1595197255574614,
+      "percentage_diff_previous_year": -0.21303841676367868,
+      "total_jobs_per_10k": 213.0207348585114
+    },
+    {
+      "nuts_id": "DE946",
+      "total_jobs": 1053,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 65,
+      "total_diff_previous_year": -88,
+      "percentage_diff_previous_month": 0.0657894736842105,
+      "percentage_diff_previous_year": -0.07712532865907099,
+      "total_jobs_per_10k": 225.5590780567218
+    },
+    {
+      "nuts_id": "DE947",
+      "total_jobs": 1220,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 174,
+      "total_diff_previous_year": 68,
+      "percentage_diff_previous_month": 0.1663479923518164,
+      "percentage_diff_previous_year": 0.0590277777777778,
+      "total_jobs_per_10k": 200.3580167840896
+    },
+    {
+      "nuts_id": "DE948",
+      "total_jobs": 1503,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 144,
+      "total_diff_previous_year": 36,
+      "percentage_diff_previous_month": 0.1059602649006623,
+      "percentage_diff_previous_year": 0.0245398773006135,
+      "total_jobs_per_10k": 207.84357109273446
+    },
+    {
+      "nuts_id": "DE949",
+      "total_jobs": 2678,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 122,
+      "total_diff_previous_year": 116,
+      "percentage_diff_previous_month": 0.0477308294209703,
+      "percentage_diff_previous_year": 0.0452771272443404,
+      "total_jobs_per_10k": 181.19938021421854
+    },
+    {
+      "nuts_id": "DE94A",
+      "total_jobs": 697,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 84,
+      "total_diff_previous_year": -151,
+      "percentage_diff_previous_month": 0.1370309951060359,
+      "percentage_diff_previous_year": -0.17806603773584906,
+      "total_jobs_per_10k": 231.96219382321618
+    },
+    {
+      "nuts_id": "DE94B",
+      "total_jobs": 775,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -94,
+      "total_diff_previous_year": -55,
+      "percentage_diff_previous_month": -0.10817031070195628,
+      "percentage_diff_previous_year": -0.06626506024096386,
+      "total_jobs_per_10k": 144.7056407192337
+    },
+    {
+      "nuts_id": "DE94C",
+      "total_jobs": 935,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -64,
+      "total_diff_previous_year": 198,
+      "percentage_diff_previous_month": -0.06406406406406406,
+      "percentage_diff_previous_year": 0.2686567164179104,
+      "total_jobs_per_10k": 188.8087881908685
+    },
+    {
+      "nuts_id": "DE94D",
+      "total_jobs": 1023,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 78,
+      "total_diff_previous_year": -112,
+      "percentage_diff_previous_month": 0.0825396825396825,
+      "percentage_diff_previous_year": -0.0986784140969163,
+      "total_jobs_per_10k": 252.7173913043478
+    },
+    {
+      "nuts_id": "DE94E",
+      "total_jobs": 2882,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -103,
+      "total_diff_previous_year": 393,
+      "percentage_diff_previous_month": -0.03450586264656617,
+      "percentage_diff_previous_year": 0.1578947368421053,
+      "total_jobs_per_10k": 218.2473571017478
+    },
+    {
+      "nuts_id": "DE94F",
+      "total_jobs": 1440,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 93,
+      "total_diff_previous_year": -79,
+      "percentage_diff_previous_month": 0.0690423162583519,
+      "percentage_diff_previous_year": -0.05200789993416721,
+      "total_jobs_per_10k": 191.0828025477707
+    },
+    {
+      "nuts_id": "DE94G",
+      "total_jobs": 878,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 137,
+      "total_diff_previous_year": -89,
+      "percentage_diff_previous_month": 0.184885290148448,
+      "percentage_diff_previous_year": -0.09203722854188211,
+      "total_jobs_per_10k": 280.37681622225773
+    },
+    {
+      "nuts_id": "DE94H",
+      "total_jobs": 326,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 37,
+      "total_diff_previous_year": -46,
+      "percentage_diff_previous_month": 0.1280276816608997,
+      "percentage_diff_previous_year": -0.12365591397849462,
+      "total_jobs_per_10k": 201.44596181177778
+    },
+    {
+      "nuts_id": "DEA11",
+      "total_jobs": 13130,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 1292,
+      "total_diff_previous_year": -611,
+      "percentage_diff_previous_month": 0.1091400574421355,
+      "percentage_diff_previous_year": -0.04446546830652791,
+      "total_jobs_per_10k": 299.63418613832465
+    },
+    {
+      "nuts_id": "DEA12",
+      "total_jobs": 4004,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 67,
+      "total_diff_previous_year": -580,
+      "percentage_diff_previous_month": 0.0170180340360681,
+      "percentage_diff_previous_year": -0.12652705061082026,
+      "total_jobs_per_10k": 223.25436165645368
+    },
+    {
+      "nuts_id": "DEA13",
+      "total_jobs": 7104,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 1637,
+      "total_diff_previous_year": 1186,
+      "percentage_diff_previous_month": 0.2994329614047924,
+      "percentage_diff_previous_year": 0.2004055424129774,
+      "total_jobs_per_10k": 272.05153048133667
+    },
+    {
+      "nuts_id": "DEA14",
+      "total_jobs": 2102,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -22,
+      "total_diff_previous_year": 259,
+      "percentage_diff_previous_month": -0.010357815442561206,
+      "percentage_diff_previous_year": 0.1405317417254476,
+      "total_jobs_per_10k": 217.3441005862707
+    },
+    {
+      "nuts_id": "DEA15",
+      "total_jobs": 1947,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -186,
+      "total_diff_previous_year": -45,
+      "percentage_diff_previous_month": -0.08720112517580872,
+      "percentage_diff_previous_year": -0.022590361445783132,
+      "total_jobs_per_10k": 185.73636311602084
+    },
+    {
+      "nuts_id": "DEA16",
+      "total_jobs": 1173,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -182,
+      "total_diff_previous_year": -283,
+      "percentage_diff_previous_month": -0.13431734317343175,
+      "percentage_diff_previous_year": -0.19436813186813187,
+      "total_jobs_per_10k": 192.99746618842343
+    },
+    {
+      "nuts_id": "DEA17",
+      "total_jobs": 1252,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -46,
+      "total_diff_previous_year": -213,
+      "percentage_diff_previous_month": -0.03543913713405239,
+      "percentage_diff_previous_year": -0.1453924914675768,
+      "total_jobs_per_10k": 179.39532884367387
+    },
+    {
+      "nuts_id": "DEA18",
+      "total_jobs": 823,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -99,
+      "total_diff_previous_year": 123,
+      "percentage_diff_previous_month": -0.10737527114967461,
+      "percentage_diff_previous_year": 0.1757142857142857,
+      "total_jobs_per_10k": 175.21822439855228
+    },
+    {
+      "nuts_id": "DEA19",
+      "total_jobs": 889,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -10,
+      "total_diff_previous_year": 21,
+      "percentage_diff_previous_month": -0.011123470522803115,
+      "percentage_diff_previous_year": 0.0241935483870968,
+      "total_jobs_per_10k": 163.8709677419355
+    },
+    {
+      "nuts_id": "DEA1A",
+      "total_jobs": 2233,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -186,
+      "total_diff_previous_year": -212,
+      "percentage_diff_previous_month": -0.07689127738735015,
+      "percentage_diff_previous_year": -0.08670756646216769,
+      "total_jobs_per_10k": 170.03875939477473
+    },
+    {
+      "nuts_id": "DEA1B",
+      "total_jobs": 1408,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -9,
+      "total_diff_previous_year": -93,
+      "percentage_diff_previous_month": -0.006351446718419196,
+      "percentage_diff_previous_year": -0.061958694203864094,
+      "total_jobs_per_10k": 133.38006687949377
+    },
+    {
+      "nuts_id": "DEA1C",
+      "total_jobs": 4369,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -405,
+      "total_diff_previous_year": -55,
+      "percentage_diff_previous_month": -0.08483452031839128,
+      "percentage_diff_previous_year": -0.012432188065099457,
+      "total_jobs_per_10k": 220.3849801255019
+    },
+    {
+      "nuts_id": "DEA1D",
+      "total_jobs": 3205,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -566,
+      "total_diff_previous_year": -185,
+      "percentage_diff_previous_month": -0.15009281357730045,
+      "percentage_diff_previous_year": -0.05457227138643068,
+      "total_jobs_per_10k": 200.5619489239742
+    },
+    {
+      "nuts_id": "DEA1E",
+      "total_jobs": 1943,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -357,
+      "total_diff_previous_year": 28,
+      "percentage_diff_previous_month": -0.15521739130434783,
+      "percentage_diff_previous_year": 0.014621409921671,
+      "total_jobs_per_10k": 201.6961996408292
+    },
+    {
+      "nuts_id": "DEA1F",
+      "total_jobs": 2717,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -119,
+      "total_diff_previous_year": 247,
+      "percentage_diff_previous_month": -0.04196050775740479,
+      "percentage_diff_previous_year": 0.1,
+      "total_jobs_per_10k": 188.7749430270691
+    },
+    {
+      "nuts_id": "DEA22",
+      "total_jobs": 6067,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 1057,
+      "total_diff_previous_year": 1030,
+      "percentage_diff_previous_month": 0.2109780439121756,
+      "percentage_diff_previous_year": 0.2044867976970419,
+      "total_jobs_per_10k": 322.6938849322646
+    },
+    {
+      "nuts_id": "DEA23",
+      "total_jobs": 15895,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -1242,
+      "total_diff_previous_year": -1143,
+      "percentage_diff_previous_month": -0.0724747622104219,
+      "percentage_diff_previous_year": -0.06708533865477169,
+      "total_jobs_per_10k": 263.1404685042629
+    },
+    {
+      "nuts_id": "DEA24",
+      "total_jobs": 1294,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -217,
+      "total_diff_previous_year": -91,
+      "percentage_diff_previous_month": -0.14361350099272005,
+      "percentage_diff_previous_year": -0.06570397111913358,
+      "total_jobs_per_10k": 195.14402050972703
+    },
+    {
+      "nuts_id": "DEA26",
+      "total_jobs": 1541,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -105,
+      "total_diff_previous_year": 72,
+      "percentage_diff_previous_month": -0.0637910085054678,
+      "percentage_diff_previous_year": 0.0490129339686862,
+      "total_jobs_per_10k": 172.8140314676296
+    },
+    {
+      "nuts_id": "DEA27",
+      "total_jobs": 3515,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -759,
+      "total_diff_previous_year": -40,
+      "percentage_diff_previous_month": -0.17758540009358914,
+      "percentage_diff_previous_year": -0.011251758087201125,
+      "total_jobs_per_10k": 236.9923879258615
+    },
+    {
+      "nuts_id": "DEA28",
+      "total_jobs": 1273,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 80,
+      "total_diff_previous_year": 50,
+      "percentage_diff_previous_month": 0.0670578373847443,
+      "percentage_diff_previous_year": 0.0408830744071954,
+      "total_jobs_per_10k": 217.68870344403024
+    },
+    {
+      "nuts_id": "DEA29",
+      "total_jobs": 1625,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 108,
+      "total_diff_previous_year": 251,
+      "percentage_diff_previous_month": 0.0711931443638761,
+      "percentage_diff_previous_year": 0.1826783114992722,
+      "total_jobs_per_10k": 209.91035213268918
+    },
+    {
+      "nuts_id": "DEA2A",
+      "total_jobs": 1917,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 145,
+      "total_diff_previous_year": 3,
+      "percentage_diff_previous_month": 0.0818284424379233,
+      "percentage_diff_previous_year": 0.0015673981191223,
+      "total_jobs_per_10k": 178.5481437326528
+    },
+    {
+      "nuts_id": "DEA2B",
+      "total_jobs": 1627,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -132,
+      "total_diff_previous_year": -109,
+      "percentage_diff_previous_month": -0.07504263786242182,
+      "percentage_diff_previous_year": -0.06278801843317973,
+      "total_jobs_per_10k": 209.87590619437063
+    },
+    {
+      "nuts_id": "DEA2C",
+      "total_jobs": 3790,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -499,
+      "total_diff_previous_year": 80,
+      "percentage_diff_previous_month": -0.11634413616227558,
+      "percentage_diff_previous_year": 0.0215633423180593,
+      "total_jobs_per_10k": 222.75511043716426
+    },
+    {
+      "nuts_id": "DEA2D",
+      "total_jobs": 4516,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -332,
+      "total_diff_previous_year": -237,
+      "percentage_diff_previous_month": -0.06848184818481848,
+      "percentage_diff_previous_year": -0.04986324426677888,
+      "total_jobs_per_10k": 201.0864725264939
+    },
+    {
+      "nuts_id": "DEA31",
+      "total_jobs": 715,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 57,
+      "total_diff_previous_year": 139,
+      "percentage_diff_previous_month": 0.0866261398176292,
+      "percentage_diff_previous_year": 0.2413194444444444,
+      "total_jobs_per_10k": 218.24730624828302
+    },
+    {
+      "nuts_id": "DEA32",
+      "total_jobs": 1675,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 84,
+      "total_diff_previous_year": -13,
+      "percentage_diff_previous_month": 0.0527969830295412,
+      "percentage_diff_previous_year": -0.007701421800947867,
+      "total_jobs_per_10k": 199.41188375775326
+    },
+    {
+      "nuts_id": "DEA33",
+      "total_jobs": 4801,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 703,
+      "total_diff_previous_year": 295,
+      "percentage_diff_previous_month": 0.1715470961444607,
+      "percentage_diff_previous_year": 0.065468264536174,
+      "total_jobs_per_10k": 261.69049552765983
+    },
+    {
+      "nuts_id": "DEA34",
+      "total_jobs": 2473,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -11,
+      "total_diff_previous_year": 336,
+      "percentage_diff_previous_month": -0.004428341384863124,
+      "percentage_diff_previous_year": 0.1572297613476837,
+      "total_jobs_per_10k": 157.0856888775964
+    },
+    {
+      "nuts_id": "DEA35",
+      "total_jobs": 1469,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -98,
+      "total_diff_previous_year": 125,
+      "percentage_diff_previous_month": -0.06253988513082323,
+      "percentage_diff_previous_year": 0.0930059523809524,
+      "total_jobs_per_10k": 197.72794572913023
+    },
+    {
+      "nuts_id": "DEA36",
+      "total_jobs": 3733,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 285,
+      "total_diff_previous_year": 385,
+      "percentage_diff_previous_month": 0.0826566125290023,
+      "percentage_diff_previous_year": 0.1149940262843489,
+      "total_jobs_per_10k": 207.6230415412938
+    },
+    {
+      "nuts_id": "DEA37",
+      "total_jobs": 3902,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 39,
+      "total_diff_previous_year": 383,
+      "percentage_diff_previous_month": 0.0100957804814911,
+      "percentage_diff_previous_year": 0.1088377379937482,
+      "total_jobs_per_10k": 229.8146523037417
+    },
+    {
+      "nuts_id": "DEA38",
+      "total_jobs": 2224,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -9,
+      "total_diff_previous_year": 205,
+      "percentage_diff_previous_month": -0.004030452306314375,
+      "percentage_diff_previous_year": 0.1015354135710748,
+      "total_jobs_per_10k": 226.9109904909603
+    },
+    {
+      "nuts_id": "DEA41",
+      "total_jobs": 4397,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -59,
+      "total_diff_previous_year": 522,
+      "percentage_diff_previous_month": -0.013240574506283662,
+      "percentage_diff_previous_year": 0.1347096774193548,
+      "total_jobs_per_10k": 262.6438807022155
+    },
+    {
+      "nuts_id": "DEA42",
+      "total_jobs": 3293,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -548,
+      "total_diff_previous_year": -41,
+      "percentage_diff_previous_month": -0.1426711793803697,
+      "percentage_diff_previous_year": -0.01229754049190162,
+      "total_jobs_per_10k": 175.02551237350116
+    },
+    {
+      "nuts_id": "DEA43",
+      "total_jobs": 2019,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -178,
+      "total_diff_previous_year": -31,
+      "percentage_diff_previous_month": -0.0810195721438325,
+      "percentage_diff_previous_year": -0.015121951219512195,
+      "total_jobs_per_10k": 208.76200717587088
+    },
+    {
+      "nuts_id": "DEA44",
+      "total_jobs": 926,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -110,
+      "total_diff_previous_year": 54,
+      "percentage_diff_previous_month": -0.10617760617760617,
+      "percentage_diff_previous_year": 0.0619266055045872,
+      "total_jobs_per_10k": 201.12508416411458
+    },
+    {
+      "nuts_id": "DEA45",
+      "total_jobs": 2136,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -240,
+      "total_diff_previous_year": 154,
+      "percentage_diff_previous_month": -0.10101010101010101,
+      "percentage_diff_previous_year": 0.0776992936427851,
+      "total_jobs_per_10k": 180.19842073294188
+    },
+    {
+      "nuts_id": "DEA46",
+      "total_jobs": 2965,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 312,
+      "total_diff_previous_year": 472,
+      "percentage_diff_previous_month": 0.1176027139087825,
+      "percentage_diff_previous_year": 0.1893301243481749,
+      "total_jobs_per_10k": 219.9375421886938
+    },
+    {
+      "nuts_id": "DEA47",
+      "total_jobs": 2698,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -177,
+      "total_diff_previous_year": 329,
+      "percentage_diff_previous_month": -0.06156521739130435,
+      "percentage_diff_previous_year": 0.1388771633600675,
+      "total_jobs_per_10k": 214.78155648961916
+    },
+    {
+      "nuts_id": "DEA51",
+      "total_jobs": 2849,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -111,
+      "total_diff_previous_year": -266,
+      "percentage_diff_previous_month": -0.0375,
+      "percentage_diff_previous_year": -0.0853932584269663,
+      "total_jobs_per_10k": 195.8923795182794
+    },
+    {
+      "nuts_id": "DEA52",
+      "total_jobs": 6545,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 648,
+      "total_diff_previous_year": -341,
+      "percentage_diff_previous_month": 0.1098863829065627,
+      "percentage_diff_previous_year": -0.04952076677316294,
+      "total_jobs_per_10k": 254.24782267525424
+    },
+    {
+      "nuts_id": "DEA53",
+      "total_jobs": 1461,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -39,
+      "total_diff_previous_year": 119,
+      "percentage_diff_previous_month": -0.026,
+      "percentage_diff_previous_year": 0.0886736214605067,
+      "total_jobs_per_10k": 203.43089476175888
+    },
+    {
+      "nuts_id": "DEA54",
+      "total_jobs": 1243,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 212,
+      "total_diff_previous_year": 224,
+      "percentage_diff_previous_month": 0.2056256062075655,
+      "percentage_diff_previous_year": 0.2198233562315996,
+      "total_jobs_per_10k": 195.79428211388517
+    },
+    {
+      "nuts_id": "DEA55",
+      "total_jobs": 973,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 69,
+      "total_diff_previous_year": 214,
+      "percentage_diff_previous_month": 0.0763274336283186,
+      "percentage_diff_previous_year": 0.2819499341238472,
+      "total_jobs_per_10k": 195.81798788464246
+    },
+    {
+      "nuts_id": "DEA56",
+      "total_jobs": 2752,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 369,
+      "total_diff_previous_year": 766,
+      "percentage_diff_previous_month": 0.1548468317247167,
+      "percentage_diff_previous_year": 0.3856998992950655,
+      "total_jobs_per_10k": 246.64581410147252
+    },
+    {
+      "nuts_id": "DEA57",
+      "total_jobs": 1886,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -42,
+      "total_diff_previous_year": 334,
+      "percentage_diff_previous_month": -0.021784232365145227,
+      "percentage_diff_previous_year": 0.2152061855670103,
+      "total_jobs_per_10k": 170.14596828031682
+    },
+    {
+      "nuts_id": "DEA58",
+      "total_jobs": 3783,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 262,
+      "total_diff_previous_year": -2270,
+      "percentage_diff_previous_month": 0.0744106787844362,
+      "percentage_diff_previous_year": -0.37502065091690073,
+      "total_jobs_per_10k": 231.73757236056235
+    },
+    {
+      "nuts_id": "DEA59",
+      "total_jobs": 1248,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 85,
+      "total_diff_previous_year": 195,
+      "percentage_diff_previous_month": 0.0730868443680138,
+      "percentage_diff_previous_year": 0.1851851851851852,
+      "total_jobs_per_10k": 204.8521059715702
+    },
+    {
+      "nuts_id": "DEA5A",
+      "total_jobs": 2589,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -62,
+      "total_diff_previous_year": -134,
+      "percentage_diff_previous_month": -0.023387400980761978,
+      "percentage_diff_previous_year": -0.04921042967315461,
+      "total_jobs_per_10k": 217.41321106464454
+    },
+    {
+      "nuts_id": "DEA5B",
+      "total_jobs": 2412,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -18,
+      "total_diff_previous_year": 318,
+      "percentage_diff_previous_month": -0.007407407407407408,
+      "percentage_diff_previous_year": 0.1518624641833811,
+      "total_jobs_per_10k": 209.03930320232266
+    },
+    {
+      "nuts_id": "DEA5C",
+      "total_jobs": 2881,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -138,
+      "total_diff_previous_year": 317,
+      "percentage_diff_previous_month": -0.04571050016561776,
+      "percentage_diff_previous_year": 0.1236349453978159,
+      "total_jobs_per_10k": 212.74239045354523
+    },
+    {
+      "nuts_id": "DEB11",
+      "total_jobs": 2001,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -87,
+      "total_diff_previous_year": -202,
+      "percentage_diff_previous_month": -0.041666666666666664,
+      "percentage_diff_previous_year": -0.09169314571039491,
+      "total_jobs_per_10k": 254.98566422427524
+    },
+    {
+      "nuts_id": "DEB12",
+      "total_jobs": 782,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -205,
+      "total_diff_previous_year": -61,
+      "percentage_diff_previous_month": -0.2077001013171226,
+      "percentage_diff_previous_year": -0.07236061684460261,
+      "total_jobs_per_10k": 214.90601297130922
+    },
+    {
+      "nuts_id": "DEB13",
+      "total_jobs": 945,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -2,
+      "total_diff_previous_year": -16,
+      "percentage_diff_previous_month": -0.0021119324181626186,
+      "percentage_diff_previous_year": -0.01664932362122789,
+      "total_jobs_per_10k": 240.9915079182924
+    },
+    {
+      "nuts_id": "DEB14",
+      "total_jobs": 1606,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 37,
+      "total_diff_previous_year": 223,
+      "percentage_diff_previous_month": 0.0235818992989165,
+      "percentage_diff_previous_year": 0.1612436731742589,
+      "total_jobs_per_10k": 290.3949081440764
+    },
+    {
+      "nuts_id": "DEB15",
+      "total_jobs": 800,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 179,
+      "total_diff_previous_year": 291,
+      "percentage_diff_previous_month": 0.2882447665056361,
+      "percentage_diff_previous_year": 0.5717092337917485,
+      "total_jobs_per_10k": 293.7181040496384
+    },
+    {
+      "nuts_id": "DEB17",
+      "total_jobs": 1671,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -56,
+      "total_diff_previous_year": 70,
+      "percentage_diff_previous_month": -0.03242617255356109,
+      "percentage_diff_previous_year": 0.0437226733291693,
+      "total_jobs_per_10k": 234.1877706613597
+    },
+    {
+      "nuts_id": "DEB18",
+      "total_jobs": 1645,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 65,
+      "total_diff_previous_year": 327,
+      "percentage_diff_previous_month": 0.0411392405063291,
+      "percentage_diff_previous_year": 0.248103186646434,
+      "total_jobs_per_10k": 251.01091020065613
+    },
+    {
+      "nuts_id": "DEB1A",
+      "total_jobs": 878,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 111,
+      "total_diff_previous_year": 45,
+      "percentage_diff_previous_month": 0.1447196870925684,
+      "percentage_diff_previous_year": 0.0540216086434574,
+      "total_jobs_per_10k": 261.3639746375733
+    },
+    {
+      "nuts_id": "DEB1B",
+      "total_jobs": 1903,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 21,
+      "total_diff_previous_year": -1,
+      "percentage_diff_previous_month": 0.0111583421891605,
+      "percentage_diff_previous_year": -0.0005252100840336134,
+      "total_jobs_per_10k": 266.9528378643773
+    },
+    {
+      "nuts_id": "DEB1C",
+      "total_jobs": 570,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 153,
+      "total_diff_previous_year": -30,
+      "percentage_diff_previous_month": 0.3669064748201439,
+      "percentage_diff_previous_year": -0.05,
+      "total_jobs_per_10k": 289.2960462873674
+    },
+    {
+      "nuts_id": "DEB1D",
+      "total_jobs": 1247,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 115,
+      "total_diff_previous_year": -897,
+      "percentage_diff_previous_month": 0.1015901060070671,
+      "percentage_diff_previous_year": -0.4183768656716418,
+      "total_jobs_per_10k": 316.86740864969255
+    },
+    {
+      "nuts_id": "DEB21",
+      "total_jobs": 1197,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 4,
+      "total_diff_previous_year": -45,
+      "percentage_diff_previous_month": 0.0033528918692372,
+      "percentage_diff_previous_year": -0.036231884057971016,
+      "total_jobs_per_10k": 213.26254275940707
+    },
+    {
+      "nuts_id": "DEB22",
+      "total_jobs": 941,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 254,
+      "total_diff_previous_year": 38,
+      "percentage_diff_previous_month": 0.3697234352256186,
+      "percentage_diff_previous_year": 0.0420819490586932,
+      "total_jobs_per_10k": 227.6906697638405
+    },
+    {
+      "nuts_id": "DEB23",
+      "total_jobs": 704,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -31,
+      "total_diff_previous_year": 4,
+      "percentage_diff_previous_month": -0.04217687074829932,
+      "percentage_diff_previous_year": 0.0057142857142857,
+      "total_jobs_per_10k": 240.77430828687713
+    },
+    {
+      "nuts_id": "DEB24",
+      "total_jobs": 717,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 278,
+      "total_diff_previous_year": 17,
+      "percentage_diff_previous_month": 0.6332574031890661,
+      "percentage_diff_previous_year": 0.0242857142857143,
+      "total_jobs_per_10k": 349.8072888715422
+    },
+    {
+      "nuts_id": "DEB25",
+      "total_jobs": 833,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 2,
+      "total_diff_previous_year": -36,
+      "percentage_diff_previous_month": 0.0024067388688327,
+      "percentage_diff_previous_year": -0.04142692750287687,
+      "total_jobs_per_10k": 262.1392831293074
+    },
+    {
+      "nuts_id": "DEB31",
+      "total_jobs": 389,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 15,
+      "total_diff_previous_year": 9,
+      "percentage_diff_previous_month": 0.0401069518716578,
+      "percentage_diff_previous_year": 0.0236842105263158,
+      "total_jobs_per_10k": 200.75347060948548
+    },
+    {
+      "nuts_id": "DEB32",
+      "total_jobs": 1236,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -45,
+      "total_diff_previous_year": -320,
+      "percentage_diff_previous_month": -0.0351288056206089,
+      "percentage_diff_previous_year": -0.20565552699228792,
+      "total_jobs_per_10k": 221.33481367405045
+    },
+    {
+      "nuts_id": "DEB33",
+      "total_jobs": 718,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 14,
+      "total_diff_previous_year": -84,
+      "percentage_diff_previous_month": 0.0198863636363636,
+      "percentage_diff_previous_year": -0.10473815461346633,
+      "total_jobs_per_10k": 278.596926897408
+    },
+    {
+      "nuts_id": "DEB34",
+      "total_jobs": 1841,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -25,
+      "total_diff_previous_year": 120,
+      "percentage_diff_previous_month": -0.01339764201500536,
+      "percentage_diff_previous_year": 0.0697269029633934,
+      "total_jobs_per_10k": 173.17931255056158
+    },
+    {
+      "nuts_id": "DEB35",
+      "total_jobs": 3104,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -274,
+      "total_diff_previous_year": -331,
+      "percentage_diff_previous_month": -0.08111308466548253,
+      "percentage_diff_previous_year": -0.09636098981077147,
+      "total_jobs_per_10k": 256.5776965869546
+    },
+    {
+      "nuts_id": "DEB36",
+      "total_jobs": 511,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -540,
+      "total_diff_previous_year": -138,
+      "percentage_diff_previous_month": -0.5137963843958135,
+      "percentage_diff_previous_year": -0.21263482280431434,
+      "total_jobs_per_10k": 292.88702928870293
+    },
+    {
+      "nuts_id": "DEB37",
+      "total_jobs": 397,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 83,
+      "total_diff_previous_year": 121,
+      "percentage_diff_previous_month": 0.2643312101910828,
+      "percentage_diff_previous_year": 0.4384057971014493,
+      "total_jobs_per_10k": 192.44752532842116
+    },
+    {
+      "nuts_id": "DEB38",
+      "total_jobs": 672,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -17,
+      "total_diff_previous_year": -66,
+      "percentage_diff_previous_month": -0.02467343976777939,
+      "percentage_diff_previous_year": -0.08943089430894309,
+      "total_jobs_per_10k": 212.8400848826529
+    },
+    {
+      "nuts_id": "DEB39",
+      "total_jobs": 1075,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 348,
+      "total_diff_previous_year": 261,
+      "percentage_diff_previous_month": 0.4786795048143054,
+      "percentage_diff_previous_year": 0.3206388206388206,
+      "total_jobs_per_10k": 303.4066213203127
+    },
+    {
+      "nuts_id": "DEB3A",
+      "total_jobs": 352,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 58,
+      "total_diff_previous_year": 36,
+      "percentage_diff_previous_month": 0.1972789115646259,
+      "percentage_diff_previous_year": 0.1139240506329114,
+      "total_jobs_per_10k": 222.67206477732793
+    },
+    {
+      "nuts_id": "DEB3B",
+      "total_jobs": 1012,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -63,
+      "total_diff_previous_year": 183,
+      "percentage_diff_previous_month": -0.0586046511627907,
+      "percentage_diff_previous_year": 0.2207478890229192,
+      "total_jobs_per_10k": 319.414196887921
+    },
+    {
+      "nuts_id": "DEB3C",
+      "total_jobs": 991,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 116,
+      "total_diff_previous_year": 73,
+      "percentage_diff_previous_month": 0.1325714285714286,
+      "percentage_diff_previous_year": 0.079520697167756,
+      "total_jobs_per_10k": 308.1659307170844
+    },
+    {
+      "nuts_id": "DEB3D",
+      "total_jobs": 412,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -159,
+      "total_diff_previous_year": -8,
+      "percentage_diff_previous_month": -0.27845884413309985,
+      "percentage_diff_previous_year": -0.01904761904761905,
+      "total_jobs_per_10k": 189.6694595341129
+    },
+    {
+      "nuts_id": "DEB3E",
+      "total_jobs": 1097,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 135,
+      "total_diff_previous_year": -9,
+      "percentage_diff_previous_month": 0.1403326403326403,
+      "percentage_diff_previous_year": -0.0081374321880651,
+      "total_jobs_per_10k": 240.68629602000965
+    },
+    {
+      "nuts_id": "DEB3F",
+      "total_jobs": 876,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -89,
+      "total_diff_previous_year": 201,
+      "percentage_diff_previous_month": -0.0922279792746114,
+      "percentage_diff_previous_year": 0.2977777777777778,
+      "total_jobs_per_10k": 329.6579234561397
+    },
+    {
+      "nuts_id": "DEB3G",
+      "total_jobs": 325,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -109,
+      "total_diff_previous_year": -78,
+      "percentage_diff_previous_month": -0.2511520737327189,
+      "percentage_diff_previous_year": -0.1935483870967742,
+      "total_jobs_per_10k": 254.80203841630734
+    },
+    {
+      "nuts_id": "DEB3H",
+      "total_jobs": 945,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 85,
+      "total_diff_previous_year": 238,
+      "percentage_diff_previous_month": 0.0988372093023256,
+      "percentage_diff_previous_year": 0.3366336633663366,
+      "total_jobs_per_10k": 295.6081081081081
+    },
+    {
+      "nuts_id": "DEB3I",
+      "total_jobs": 666,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 143,
+      "total_diff_previous_year": 104,
+      "percentage_diff_previous_month": 0.2734225621414914,
+      "percentage_diff_previous_year": 0.1850533807829181,
+      "total_jobs_per_10k": 232.2418663040067
+    },
+    {
+      "nuts_id": "DEB3J",
+      "total_jobs": 1908,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -79,
+      "total_diff_previous_year": 367,
+      "percentage_diff_previous_month": -0.03975842979365878,
+      "percentage_diff_previous_year": 0.2381570408825438,
+      "total_jobs_per_10k": 322.67338621027886
+    },
+    {
+      "nuts_id": "DEB3K",
+      "total_jobs": 321,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -64,
+      "total_diff_previous_year": 35,
+      "percentage_diff_previous_month": -0.16623376623376623,
+      "percentage_diff_previous_year": 0.1223776223776224,
+      "total_jobs_per_10k": 205.4794520547945
+    },
+    {
+      "nuts_id": "DEC01",
+      "total_jobs": 2599,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 48,
+      "total_diff_previous_year": -147,
+      "percentage_diff_previous_month": 0.0188161505292042,
+      "percentage_diff_previous_year": -0.053532410779315365,
+      "total_jobs_per_10k": 166.78003516562495
+    },
+    {
+      "nuts_id": "DEC02",
+      "total_jobs": 648,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 173,
+      "total_diff_previous_year": 33,
+      "percentage_diff_previous_month": 0.3642105263157895,
+      "percentage_diff_previous_year": 0.0536585365853659,
+      "total_jobs_per_10k": 205.62289775972584
+    },
+    {
+      "nuts_id": "DEC03",
+      "total_jobs": 865,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -116,
+      "total_diff_previous_year": -223,
+      "percentage_diff_previous_month": -0.11824668705402651,
+      "percentage_diff_previous_year": -0.20496323529411764,
+      "total_jobs_per_10k": 215.6676972175127
+    },
+    {
+      "nuts_id": "DEC04",
+      "total_jobs": 1206,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 194,
+      "total_diff_previous_year": 63,
+      "percentage_diff_previous_month": 0.191699604743083,
+      "percentage_diff_previous_year": 0.0551181102362205,
+      "total_jobs_per_10k": 172.63344737256475
+    },
+    {
+      "nuts_id": "DEC05",
+      "total_jobs": 1086,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -32,
+      "total_diff_previous_year": 41,
+      "percentage_diff_previous_month": -0.028622540250447227,
+      "percentage_diff_previous_year": 0.0392344497607656,
+      "total_jobs_per_10k": 161.3478338384739
+    },
+    {
+      "nuts_id": "DEC06",
+      "total_jobs": 496,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 97,
+      "total_diff_previous_year": 16,
+      "percentage_diff_previous_month": 0.2431077694235589,
+      "percentage_diff_previous_year": 0.0333333333333333,
+      "total_jobs_per_10k": 175.4448020940186
+    },
+    {
+      "nuts_id": "DED21",
+      "total_jobs": 8789,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -700,
+      "total_diff_previous_year": -325,
+      "percentage_diff_previous_month": -0.07376962799030456,
+      "percentage_diff_previous_year": -0.03565942506034672,
+      "total_jobs_per_10k": 317.76160467983414
+    },
+    {
+      "nuts_id": "DED2C",
+      "total_jobs": 2546,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 2,
+      "total_diff_previous_year": -45,
+      "percentage_diff_previous_month": 0.0007861635220126,
+      "percentage_diff_previous_year": -0.01736781165573138,
+      "total_jobs_per_10k": 220.0062216999067
+    },
+    {
+      "nuts_id": "DED2D",
+      "total_jobs": 1333,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -59,
+      "total_diff_previous_year": 75,
+      "percentage_diff_previous_month": -0.042385057471264365,
+      "percentage_diff_previous_year": 0.0596184419713831,
+      "total_jobs_per_10k": 150.82427218519817
+    },
+    {
+      "nuts_id": "DED2E",
+      "total_jobs": 2618,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 213,
+      "total_diff_previous_year": 151,
+      "percentage_diff_previous_month": 0.0885654885654886,
+      "percentage_diff_previous_year": 0.0612079448723146,
+      "total_jobs_per_10k": 292.2853634029251
+    },
+    {
+      "nuts_id": "DED2F",
+      "total_jobs": 4780,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -5385,
+      "total_diff_previous_year": 2189,
+      "percentage_diff_previous_month": -0.529758976881456,
+      "percentage_diff_previous_year": 0.8448475492087997,
+      "total_jobs_per_10k": 592.8314523130349
+    },
+    {
+      "nuts_id": "DED41",
+      "total_jobs": 2712,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -448,
+      "total_diff_previous_year": -461,
+      "percentage_diff_previous_month": -0.14177215189873418,
+      "percentage_diff_previous_year": -0.1452883706271667,
+      "total_jobs_per_10k": 230.0664240449953
+    },
+    {
+      "nuts_id": "DED42",
+      "total_jobs": 1875,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -118,
+      "total_diff_previous_year": 8,
+      "percentage_diff_previous_month": -0.05920722528850978,
+      "percentage_diff_previous_year": 0.0042849491162292,
+      "total_jobs_per_10k": 163.2351020763505
+    },
+    {
+      "nuts_id": "DED43",
+      "total_jobs": 2899,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 31,
+      "total_diff_previous_year": -1127,
+      "percentage_diff_previous_month": 0.0108089260808926,
+      "percentage_diff_previous_year": -0.2799304520615996,
+      "total_jobs_per_10k": 266.45465491410766
+    },
+    {
+      "nuts_id": "DED44",
+      "total_jobs": 1870,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 81,
+      "total_diff_previous_year": 213,
+      "percentage_diff_previous_month": 0.0452766908887647,
+      "percentage_diff_previous_year": 0.1285455642727821,
+      "total_jobs_per_10k": 230.5312080081857
+    },
+    {
+      "nuts_id": "DED45",
+      "total_jobs": 2785,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -46,
+      "total_diff_previous_year": 32,
+      "percentage_diff_previous_month": -0.016248675379724478,
+      "percentage_diff_previous_year": 0.0116236832546313,
+      "total_jobs_per_10k": 219.8938824495468
+    },
+    {
+      "nuts_id": "DED51",
+      "total_jobs": 9712,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 1915,
+      "total_diff_previous_year": -460,
+      "percentage_diff_previous_month": 0.2456072848531486,
+      "percentage_diff_previous_year": -0.04522217852929611,
+      "total_jobs_per_10k": 340.8951305208549
+    },
+    {
+      "nuts_id": "DED52",
+      "total_jobs": 1919,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 79,
+      "total_diff_previous_year": 247,
+      "percentage_diff_previous_month": 0.0429347826086957,
+      "percentage_diff_previous_year": 0.1477272727272727,
+      "total_jobs_per_10k": 240.18724341644136
+    },
+    {
+      "nuts_id": "DED53",
+      "total_jobs": 1921,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 51,
+      "total_diff_previous_year": 34,
+      "percentage_diff_previous_month": 0.0272727272727273,
+      "percentage_diff_previous_year": 0.018018018018018,
+      "total_jobs_per_10k": 248.43194309731652
+    },
+    {
+      "nuts_id": "DEE01",
+      "total_jobs": 817,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -82,
+      "total_diff_previous_year": 58,
+      "percentage_diff_previous_month": -0.09121245828698554,
+      "percentage_diff_previous_year": 0.0764163372859025,
+      "total_jobs_per_10k": 243.56795754702918
+    },
+    {
+      "nuts_id": "DEE02",
+      "total_jobs": 2263,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -420,
+      "total_diff_previous_year": -866,
+      "percentage_diff_previous_month": -0.15654118524040253,
+      "percentage_diff_previous_year": -0.2767657398529882,
+      "total_jobs_per_10k": 224.2814667988107
+    },
+    {
+      "nuts_id": "DEE03",
+      "total_jobs": 2950,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -344,
+      "total_diff_previous_year": -1015,
+      "percentage_diff_previous_month": -0.10443230115361263,
+      "percentage_diff_previous_year": -0.25598991172761665,
+      "total_jobs_per_10k": 266.96107797978334
+    },
+    {
+      "nuts_id": "DEE04",
+      "total_jobs": 588,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 109,
+      "total_diff_previous_year": 52,
+      "percentage_diff_previous_month": 0.2275574112734864,
+      "percentage_diff_previous_year": 0.0970149253731343,
+      "total_jobs_per_10k": 219.2393736017897
+    },
+    {
+      "nuts_id": "DEE05",
+      "total_jobs": 1597,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 21,
+      "total_diff_previous_year": 50,
+      "percentage_diff_previous_month": 0.0133248730964467,
+      "percentage_diff_previous_year": 0.0323206205559147,
+      "total_jobs_per_10k": 281.3155067026018
+    },
+    {
+      "nuts_id": "DEE06",
+      "total_jobs": 544,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -65,
+      "total_diff_previous_year": 13,
+      "percentage_diff_previous_month": -0.10673234811165845,
+      "percentage_diff_previous_year": 0.0244821092278719,
+      "total_jobs_per_10k": 191.9683816783118
+    },
+    {
+      "nuts_id": "DEE07",
+      "total_jobs": 1380,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 169,
+      "total_diff_previous_year": -174,
+      "percentage_diff_previous_month": 0.1395540875309661,
+      "percentage_diff_previous_year": -0.11196911196911197,
+      "total_jobs_per_10k": 217.91996968069986
+    },
+    {
+      "nuts_id": "DEE08",
+      "total_jobs": 1306,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 161,
+      "total_diff_previous_year": -169,
+      "percentage_diff_previous_month": 0.1406113537117904,
+      "percentage_diff_previous_year": -0.11457627118644068,
+      "total_jobs_per_10k": 216.8354640544579
+    },
+    {
+      "nuts_id": "DEE09",
+      "total_jobs": 1774,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 204,
+      "total_diff_previous_year": -52,
+      "percentage_diff_previous_month": 0.1299363057324841,
+      "percentage_diff_previous_year": -0.028477546549835708,
+      "total_jobs_per_10k": 245.26136787822648
+    },
+    {
+      "nuts_id": "DEE0A",
+      "total_jobs": 746,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 80,
+      "total_diff_previous_year": -36,
+      "percentage_diff_previous_month": 0.1201201201201201,
+      "percentage_diff_previous_year": -0.04603580562659847,
+      "total_jobs_per_10k": 181.22191181829223
+    },
+    {
+      "nuts_id": "DEE0B",
+      "total_jobs": 1817,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 258,
+      "total_diff_previous_year": 186,
+      "percentage_diff_previous_month": 0.1654906991661321,
+      "percentage_diff_previous_year": 0.1140404659717964,
+      "total_jobs_per_10k": 257.1105136550163
+    },
+    {
+      "nuts_id": "DEE0C",
+      "total_jobs": 1570,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 61,
+      "total_diff_previous_year": -200,
+      "percentage_diff_previous_month": 0.0404241219350563,
+      "percentage_diff_previous_year": -0.11299435028248588,
+      "total_jobs_per_10k": 251.82856409598358
+    },
+    {
+      "nuts_id": "DEE0D",
+      "total_jobs": 903,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 193,
+      "total_diff_previous_year": -48,
+      "percentage_diff_previous_month": 0.271830985915493,
+      "percentage_diff_previous_year": -0.050473186119873815,
+      "total_jobs_per_10k": 255.56844875895055
+    },
+    {
+      "nuts_id": "DEE0E",
+      "total_jobs": 939,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 172,
+      "total_diff_previous_year": 151,
+      "percentage_diff_previous_month": 0.2242503259452412,
+      "percentage_diff_previous_year": 0.1916243654822335,
+      "total_jobs_per_10k": 218.77402670021667
+    },
+    {
+      "nuts_id": "DEF01",
+      "total_jobs": 1199,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 88,
+      "total_diff_previous_year": 180,
+      "percentage_diff_previous_month": 0.0792079207920792,
+      "percentage_diff_previous_year": 0.1766437684003925,
+      "total_jobs_per_10k": 267.2044927794616
+    },
+    {
+      "nuts_id": "DEF02",
+      "total_jobs": 2930,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -484,
+      "total_diff_previous_year": -1168,
+      "percentage_diff_previous_month": -0.14176918570591682,
+      "percentage_diff_previous_year": -0.2850170815031723,
+      "total_jobs_per_10k": 223.42534695745005
+    },
+    {
+      "nuts_id": "DEF03",
+      "total_jobs": 2318,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -199,
+      "total_diff_previous_year": -526,
+      "percentage_diff_previous_month": -0.07906237584425904,
+      "percentage_diff_previous_year": -0.1849507735583685,
+      "total_jobs_per_10k": 224.21481288026078
+    },
+    {
+      "nuts_id": "DEF04",
+      "total_jobs": 971,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -77,
+      "total_diff_previous_year": -82,
+      "percentage_diff_previous_month": -0.07347328244274809,
+      "percentage_diff_previous_year": -0.0778727445394112,
+      "total_jobs_per_10k": 225.43124463120748
+    },
+    {
+      "nuts_id": "DEF05",
+      "total_jobs": 947,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -24,
+      "total_diff_previous_year": -95,
+      "percentage_diff_previous_month": -0.024716786817713696,
+      "percentage_diff_previous_year": -0.09117082533589252,
+      "total_jobs_per_10k": 216.88844101413096
+    },
+    {
+      "nuts_id": "DEF06",
+      "total_jobs": 1236,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -12,
+      "total_diff_previous_year": -1584,
+      "percentage_diff_previous_month": -0.009615384615384616,
+      "percentage_diff_previous_year": -0.5617021276595745,
+      "total_jobs_per_10k": 242.42899733249646
+    },
+    {
+      "nuts_id": "DEF07",
+      "total_jobs": 2224,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 460,
+      "total_diff_previous_year": 768,
+      "percentage_diff_previous_month": 0.2607709750566893,
+      "percentage_diff_previous_year": 0.5274725274725275,
+      "total_jobs_per_10k": 355.39646521141617
+    },
+    {
+      "nuts_id": "DEF08",
+      "total_jobs": 1266,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -164,
+      "total_diff_previous_year": -239,
+      "percentage_diff_previous_month": -0.11468531468531469,
+      "percentage_diff_previous_year": -0.15880398671096346,
+      "total_jobs_per_10k": 201.60840831276374
+    },
+    {
+      "nuts_id": "DEF09",
+      "total_jobs": 2410,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -391,
+      "total_diff_previous_year": -79,
+      "percentage_diff_previous_month": -0.13959300249910747,
+      "percentage_diff_previous_year": -0.03173965447971073,
+      "total_jobs_per_10k": 251.89970001985932
+    },
+    {
+      "nuts_id": "DEF0A",
+      "total_jobs": 774,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -173,
+      "total_diff_previous_year": -32,
+      "percentage_diff_previous_month": -0.18268215417106654,
+      "percentage_diff_previous_year": -0.03970223325062035,
+      "total_jobs_per_10k": 269.69580821631416
+    },
+    {
+      "nuts_id": "DEF0B",
+      "total_jobs": 2293,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -56,
+      "total_diff_previous_year": -309,
+      "percentage_diff_previous_month": -0.023839931885908897,
+      "percentage_diff_previous_year": -0.11875480399692544,
+      "total_jobs_per_10k": 275.56452872817295
+    },
+    {
+      "nuts_id": "DEF0C",
+      "total_jobs": 1700,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 241,
+      "total_diff_previous_year": -867,
+      "percentage_diff_previous_month": 0.1651816312542838,
+      "percentage_diff_previous_year": -0.33774834437086093,
+      "total_jobs_per_10k": 281.29395218002816
+    },
+    {
+      "nuts_id": "DEF0D",
+      "total_jobs": 2683,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -34,
+      "total_diff_previous_year": -339,
+      "percentage_diff_previous_month": -0.012513801987486198,
+      "percentage_diff_previous_year": -0.11217736598279285,
+      "total_jobs_per_10k": 280.1094128455692
+    },
+    {
+      "nuts_id": "DEF0E",
+      "total_jobs": 987,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 42,
+      "total_diff_previous_year": -425,
+      "percentage_diff_previous_month": 0.0444444444444444,
+      "percentage_diff_previous_year": -0.3009915014164306,
+      "total_jobs_per_10k": 240.61433447098977
+    },
+    {
+      "nuts_id": "DEF0F",
+      "total_jobs": 2442,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -251,
+      "total_diff_previous_year": -349,
+      "percentage_diff_previous_month": -0.09320460453026365,
+      "percentage_diff_previous_year": -0.12504478681476172,
+      "total_jobs_per_10k": 267.24156799229576
+    },
+    {
+      "nuts_id": "DEG01",
+      "total_jobs": 3182,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -41,
+      "total_diff_previous_year": 120,
+      "percentage_diff_previous_month": -0.012721067328575862,
+      "percentage_diff_previous_year": 0.0391900718484651,
+      "total_jobs_per_10k": 281.3713093227458
+    },
+    {
+      "nuts_id": "DEG02",
+      "total_jobs": 1195,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -42,
+      "total_diff_previous_year": 64,
+      "percentage_diff_previous_month": -0.03395311236863379,
+      "percentage_diff_previous_year": 0.0565870910698497,
+      "total_jobs_per_10k": 308.5622805205536
+    },
+    {
+      "nuts_id": "DEG03",
+      "total_jobs": 1721,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -187,
+      "total_diff_previous_year": -446,
+      "percentage_diff_previous_month": -0.0980083857442348,
+      "percentage_diff_previous_year": -0.20581449007844946,
+      "total_jobs_per_10k": 289.3312262533203
+    },
+    {
+      "nuts_id": "DEG04",
+      "total_jobs": 450,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 44,
+      "total_diff_previous_year": 1,
+      "percentage_diff_previous_month": 0.1083743842364532,
+      "percentage_diff_previous_year": 0.0022271714922049,
+      "total_jobs_per_10k": 293.90634184573184
+    },
+    {
+      "nuts_id": "DEG05",
+      "total_jobs": 783,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 45,
+      "total_diff_previous_year": -12,
+      "percentage_diff_previous_month": 0.0609756097560976,
+      "percentage_diff_previous_year": -0.01509433962264151,
+      "total_jobs_per_10k": 312.26321036889334
+    },
+    {
+      "nuts_id": "DEG06",
+      "total_jobs": 930,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 67,
+      "total_diff_previous_year": 97,
+      "percentage_diff_previous_month": 0.0776361529548088,
+      "percentage_diff_previous_year": 0.1164465786314526,
+      "total_jobs_per_10k": 263.04624522698344
+    },
+    {
+      "nuts_id": "DEG07",
+      "total_jobs": 807,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 51,
+      "total_diff_previous_year": 65,
+      "percentage_diff_previous_month": 0.0674603174603175,
+      "percentage_diff_previous_year": 0.0876010781671159,
+      "total_jobs_per_10k": 271.39734319825124
+    },
+    {
+      "nuts_id": "DEG09",
+      "total_jobs": 765,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -15,
+      "total_diff_previous_year": -100,
+      "percentage_diff_previous_month": -0.019230769230769232,
+      "percentage_diff_previous_year": -0.11560693641618497,
+      "total_jobs_per_10k": 214.8997134670487
+    },
+    {
+      "nuts_id": "DEG0A",
+      "total_jobs": 436,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 49,
+      "total_diff_previous_year": 31,
+      "percentage_diff_previous_month": 0.1266149870801034,
+      "percentage_diff_previous_year": 0.0765432098765432,
+      "total_jobs_per_10k": 227.66435173098012
+    },
+    {
+      "nuts_id": "DEG0B",
+      "total_jobs": 1271,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 231,
+      "total_diff_previous_year": 47,
+      "percentage_diff_previous_month": 0.2221153846153846,
+      "percentage_diff_previous_year": 0.0383986928104575,
+      "total_jobs_per_10k": 292.823407441539
+    },
+    {
+      "nuts_id": "DEG0C",
+      "total_jobs": 1636,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -104,
+      "total_diff_previous_year": -868,
+      "percentage_diff_previous_month": -0.059770114942528735,
+      "percentage_diff_previous_year": -0.3466453674121406,
+      "total_jobs_per_10k": 323.7488373933865
+    },
+    {
+      "nuts_id": "DEG0D",
+      "total_jobs": 594,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 45,
+      "total_diff_previous_year": 133,
+      "percentage_diff_previous_month": 0.0819672131147541,
+      "percentage_diff_previous_year": 0.2885032537960954,
+      "total_jobs_per_10k": 257.05383416998444
+    },
+    {
+      "nuts_id": "DEG0E",
+      "total_jobs": 630,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 30,
+      "total_diff_previous_year": 36,
+      "percentage_diff_previous_month": 0.05,
+      "percentage_diff_previous_year": 0.0606060606060606,
+      "total_jobs_per_10k": 335.78509753757595
+    },
+    {
+      "nuts_id": "DEG0F",
+      "total_jobs": 1313,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -39,
+      "total_diff_previous_year": 68,
+      "percentage_diff_previous_month": -0.028846153846153848,
+      "percentage_diff_previous_year": 0.0546184738955823,
+      "total_jobs_per_10k": 333.21490204040197
+    },
+    {
+      "nuts_id": "DEG0G",
+      "total_jobs": 760,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -10,
+      "total_diff_previous_year": 27,
+      "percentage_diff_previous_month": -0.012987012987012988,
+      "percentage_diff_previous_year": 0.0368349249658936,
+      "total_jobs_per_10k": 291.1431198283788
+    },
+    {
+      "nuts_id": "DEG0H",
+      "total_jobs": 591,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 37,
+      "total_diff_previous_year": 67,
+      "percentage_diff_previous_month": 0.0667870036101083,
+      "percentage_diff_previous_year": 0.1278625954198473,
+      "total_jobs_per_10k": 298.0332829046899
+    },
+    {
+      "nuts_id": "DEG0I",
+      "total_jobs": 933,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 136,
+      "total_diff_previous_year": 125,
+      "percentage_diff_previous_month": 0.1706398996235885,
+      "percentage_diff_previous_year": 0.1547029702970297,
+      "total_jobs_per_10k": 268.7831297533994
+    },
+    {
+      "nuts_id": "DEG0J",
+      "total_jobs": 1007,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -187,
+      "total_diff_previous_year": 97,
+      "percentage_diff_previous_month": -0.15661641541038526,
+      "percentage_diff_previous_year": 0.1065934065934066,
+      "total_jobs_per_10k": 375.17231101672814
+    },
+    {
+      "nuts_id": "DEG0K",
+      "total_jobs": 710,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 6,
+      "total_diff_previous_year": 46,
+      "percentage_diff_previous_month": 0.0085227272727273,
+      "percentage_diff_previous_year": 0.0692771084337349,
+      "total_jobs_per_10k": 243.14235813841992
+    },
+    {
+      "nuts_id": "DEG0L",
+      "total_jobs": 857,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 50,
+      "total_diff_previous_year": 142,
+      "percentage_diff_previous_month": 0.0619578686493185,
+      "percentage_diff_previous_year": 0.1986013986013986,
+      "total_jobs_per_10k": 291.67517527738073
+    },
+    {
+      "nuts_id": "DEG0M",
+      "total_jobs": 780,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 21,
+      "total_diff_previous_year": 12,
+      "percentage_diff_previous_month": 0.0276679841897233,
+      "percentage_diff_previous_year": 0.015625,
+      "total_jobs_per_10k": 277.63935359863314
+    },
+    {
+      "nuts_id": "DEG0N",
+      "total_jobs": 759,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": -35,
+      "total_diff_previous_year": 64,
+      "percentage_diff_previous_month": -0.04408060453400504,
+      "percentage_diff_previous_year": 0.0920863309352518,
+      "total_jobs_per_10k": 346.4646003560506
+    },
+    {
+      "nuts_id": "DEG0P",
+      "total_jobs": 1050,
+      "percentage_total_jobs": 1,
+      "total_diff_previous_month": 49,
+      "total_diff_previous_year": -77,
+      "percentage_diff_previous_month": 0.048951048951049,
+      "percentage_diff_previous_year": -0.06832298136645963,
+      "total_jobs_per_10k": 263.69983424581847
+    }
+  ]
+}
