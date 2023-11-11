@@ -1,19 +1,23 @@
 from fastapi import FastAPI
+from pydantic import BaseModel
+
 from database import Database
 
 app = FastAPI()
 
-
-# Create list endpoint
-
-
-# Create get by endpoint
+database = Database(dataset="small")
 
 
-# Create create endpoint
+# Create list endpoint including pagination using query parameters
 
 
-# Create update endpoint
+# Create get by id endpoint using path parameters
 
 
-# Create delete endpoint
+# Create create endpoint using body parameters
+
+
+# Create update endpoint using path and body parameters
+
+
+# Create delete endpoint using path parameters
